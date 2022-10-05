@@ -45,10 +45,10 @@ conda env create -f environment.yml
 source activate data-privacy-env
 ```
 
-# How to run the docker image
+# How to run the docker image    
 
-Build docker image
-`sudo sudo docker build -t data-privacy-env:v1 .`
+Build docker image    
+`sudo sudo docker build -t data-privacy-env:v1 .`   
 
-Run the Docker image
+Run the Docker image     
 `sudo sudo docker run -p 8888:8888 data-privacy-env:v1`
