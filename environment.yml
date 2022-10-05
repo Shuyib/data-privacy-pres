@@ -449,4 +449,4 @@ dependencies:
     - tangled-up-in-unicode==0.2.0
     - visions==0.7.5
     - websockets==10.3
-prefix: ~/anaconda3/envs/data-privacy-env
+prefix: ~/miniconda3/envs/data-privacy-env
