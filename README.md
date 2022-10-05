@@ -51,4 +51,4 @@ Build docker image
 `sudo sudo docker build -t data-privacy-env:v1 .`   
 
 Run the Docker image     
-`sudo sudo docker run -p 8888:8888 data-privacy-env:v1`
+`sudo sudo docker run -p 9999:9999 data-privacy-env:v1`
