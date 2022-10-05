@@ -1,4 +1,8 @@
-  1. "id" - this is the identifier used as a primary key.
+ This is a simulated dataset that uses the faker python library in conjunction with numpy functions to create the dataset. These features were estimated based on insurance KYC (Know Your Customer) protocols and advice from people who have handled insurance datasets. Next, let's look at the columns and their descriptions. 
+ 
+ NB: Column 14 and Column 15 were removed. They contain sensitive information that could align with real documents. 
+ 
+ 1. "id" - this is the identifier used as a primary key.
 
 	Type of data:          Number
 	Contains null values:  False
@@ -163,34 +167,5 @@
 	                       15 (56x)
 	                       8 (55x)
 	                       6 (54x)
-
- 14. "ID_number" - their kenyan identification number.
-
-	Type of data:          Number
-	Contains null values:  False
-	Unique values:         1001
-	Smallest value:        1,019,158
-	Largest value:         39,969,824
-	Sum:                   20,438,436,501
-	Mean:                  20,418,018.483
-	Median:                20,583,770
-	StDev:                 11,584,245.069
-	Most common values:    38,074,758 (1x)
-	                       19,503,833 (1x)
-	                       5,985,350 (1x)
-	                       23,029,320 (1x)
-	                       22,372,093 (1x)
-
- 15. "Tax_id" - their KRA identifier.
-
-	Type of data:          Text
-	Contains null values:  False
-	Unique values:         1001
-	Longest value:         11 characters
-	Most common values:    N690674664H (1x)
-	                       F384415788F (1x)
-	                       B871536581P (1x)
-	                       P464662008O (1x)
-	                       V172966182A (1x)
 
 Row count: 1001
