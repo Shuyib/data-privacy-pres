@@ -1,0 +1,1002 @@
+"id","County","Gender","Marital_status","No_of_dependents","Age","Tier","Policy_limit","Illness_category","Date_of_entry","Updated_subscription","Account_withdrawal","Retention"
+0,"Machakos","Female","Single",2,47,"Silver",300000,"Chronic",14/11/13 01:12,"No","No",14
+1,"Kisii","Male","Married",3,39,"Silver",300000,"Congenital",11/09/15 02:32,"Yes","Yes",5
+2,"Marsabit","Female","Widowed",3,73,"Bronze",500000,"Chronic",24/11/00 04:13,"Yes","No",2
+3,"Kilifi","Male","Separated",4,52,"Gold",300000,"Congenital",06/04/06 12:50,"No","No",19
+4,"Marsabit","Female","Married",5,39,"Silver",300000,"Subacute",04/12/16 16:49,"Yes","No",9
+5,"Kisumu","Male","Separated",0,34,"Silver",500000,"Acute",03/12/12 23:18,"Yes","No",4
+6,"Mombasa (County)","Male","Married",1,42,"Bronze",300000,"Chronic",26/11/05 17:43,"Yes","Yes",13
+7,"Meru","Male","Single",3,46,"Gold",1000000,"Subacute",11/11/09 06:51,"Yes","No",14
+8,"Meru","Male","Single",3,43,"Bronze",500000,"Chronic",24/01/19 13:00,"No","No",8
+9,"Kisii","Male","Married",2,31,"Silver",300000,"Subacute",16/12/01 13:24,"Yes","No",18
+10,"Kisii","Male","Married",2,65,"Gold",1000000,"Acute",22/07/18 13:06,"No","Yes",15
+11,"Kajiado","Female","Separated",2,52,"Gold",500000,"Subacute",04/03/04 19:17,"No","No",14
+12,"Kericho","Male","Separated",5,33,"Silver",1000000,"Subacute",28/10/10 03:44,"No","Yes",2
+13,"Meru","Male","Married",2,42,"Bronze",300000,"Subacute",12/07/05 09:24,"Yes","No",2
+14,"Narok","Female","Single",0,59,"Gold",1000000,"Chronic",03/12/21 05:37,"No","No",10
+15,"Kisii","Female","Married",0,37,"Bronze",300000,"Subacute",31/08/17 07:16,"Yes","No",18
+16,"Vihiga","Female","Married",4,66,"Silver",300000,"Chronic",10/04/21 03:57,"No","No",21
+17,"West Pokot","Female","Single",5,58,"Silver",500000,"Subacute",17/11/13 08:38,"Yes","No",18
+18,"Vihiga","Male","Single",5,42,"Bronze",500000,"Acute",10/11/21 18:55,"Yes","Yes",18
+19,"Bomet","Male","Single",4,52,"Silver",300000,"Acute",24/03/05 21:19,"Yes","Yes",13
+20,"Kwale","Female","Married",5,30,"Bronze",1000000,"Congenital",23/05/02 14:09,"No","No",3
+21,"Meru","Female","Separated",1,65,"Gold",1000000,"Acute",11/04/15 14:28,"Yes","No",2
+22,"Kisii","Male","Separated",3,71,"Bronze",300000,"Chronic",07/08/17 05:34,"No","No",12
+23,"West Pokot","Female","Single",0,50,"Gold",300000,"Chronic",02/01/04 11:13,"Yes","Yes",7
+24,"Makueni","Female","Single",0,69,"Silver",300000,"Chronic",12/01/04 11:15,"Yes","Yes",11
+25,"West Pokot","Male","Married",4,35,"Silver",500000,"Subacute",03/04/01 14:45,"Yes","No",19
+26,"Marsabit","Female","Married",0,39,"Silver",300000,"Acute",16/10/00 04:39,"No","Yes",18
+27,"Mombasa (County)","Male","Widowed",3,66,"Bronze",300000,"Congenital",04/03/04 09:48,"Yes","No",13
+28,"Mombasa (County)","Male","Separated",5,72,"Bronze",500000,"Congenital",15/06/09 05:08,"No","No",1
+29,"Lamu","Male","Married",5,33,"Bronze",300000,"Congenital",13/01/06 08:05,"No","No",17
+30,"Vihiga","Male","Single",5,45,"Bronze",500000,"Subacute",26/09/06 03:40,"No","No",21
+31,"Kwale","Female","Widowed",4,73,"Gold",1000000,"Congenital",06/10/18 19:28,"Yes","No",19
+32,"Kajiado","Female","Separated",1,72,"Silver",1000000,"Subacute",10/06/11 01:29,"No","Yes",11
+33,"West Pokot","Male","Single",5,35,"Gold",500000,"Acute",23/01/04 23:26,"No","No",1
+34,"Kisii","Male","Married",3,49,"Silver",300000,"Chronic",19/07/03 07:28,"Yes","No",6
+35,"Turkana","Male","Married",5,37,"Bronze",500000,"Chronic",03/10/14 15:25,"Yes","No",16
+36,"Migori","Male","Widowed",3,73,"Bronze",300000,"Chronic",12/09/08 17:15,"Yes","No",16
+37,"Turkana","Female","Widowed",5,39,"Bronze",1000000,"Congenital",06/12/21 06:38,"No","No",6
+38,"Turkana","Female","Married",3,35,"Silver",300000,"Subacute",30/01/15 06:40,"No","No",11
+39,"Baringo","Female","Separated",4,31,"Bronze",300000,"Acute",23/03/16 17:28,"No","No",13
+40,"Machakos","Male","Single",5,37,"Gold",300000,"Chronic",10/06/00 11:32,"No","No",19
+41,"Migori","Male","Separated",5,39,"Bronze",500000,"Chronic",31/08/02 14:36,"No","No",15
+42,"Kiambu","Male","Separated",5,62,"Bronze",300000,"Chronic",08/12/14 14:25,"Yes","No",17
+43,"Migori","Male","Married",4,45,"Bronze",300000,"Acute",23/06/01 03:13,"No","Yes",6
+44,"Samburu","Female","Widowed",4,38,"Silver",1000000,"Subacute",27/05/15 01:20,"Yes","No",5
+45,"Kajiado","Female","Separated",4,37,"Gold",1000000,"Chronic",24/04/11 20:52,"Yes","Yes",13
+46,"Trans-Nzoia","Male","Separated",2,59,"Silver",300000,"Subacute",31/03/09 14:03,"No","No",21
+47,"Turkana","Female","Single",5,30,"Gold",1000000,"Acute",05/05/19 00:41,"No","No",3
+48,"Machakos","Female","Separated",4,55,"Silver",300000,"Subacute",12/01/03 16:16,"No","Yes",2
+49,"Trans-Nzoia","Female","Separated",1,47,"Bronze",300000,"Congenital",20/07/07 01:31,"Yes","No",7
+50,"Kiambu","Female","Separated",1,36,"Gold",300000,"Congenital",27/01/22 18:09,"Yes","No",17
+51,"Turkana","Female","Single",3,56,"Bronze",300000,"Congenital",30/06/16 00:13,"Yes","No",5
+52,"Kisii","Female","Single",2,69,"Silver",1000000,"Subacute",16/07/12 11:32,"Yes","No",11
+53,"Vihiga","Female","Widowed",4,31,"Bronze",500000,"Congenital",06/03/05 02:24,"Yes","No",18
+54,"Migori","Female","Separated",5,66,"Gold",500000,"Subacute",04/04/20 09:37,"Yes","Yes",6
+55,"Kisii","Female","Single",5,42,"Silver",300000,"Congenital",06/09/12 12:20,"No","Yes",13
+56,"West Pokot","Female","Married",5,34,"Gold",300000,"Chronic",18/12/11 11:01,"Yes","No",12
+57,"Turkana","Male","Single",1,51,"Silver",300000,"Subacute",09/11/08 16:56,"Yes","No",4
+58,"Uasin Gishu","Female","Single",2,46,"Gold",500000,"Chronic",14/06/22 21:40,"Yes","No",10
+59,"Turkana","Male","Single",4,43,"Gold",300000,"Chronic",09/05/01 21:15,"Yes","Yes",2
+60,"Laikipia","Female","Separated",3,69,"Gold",500000,"Chronic",01/12/08 16:29,"Yes","No",7
+61,"Turkana","Male","Widowed",0,58,"Silver",300000,"Subacute",15/01/16 19:45,"No","Yes",12
+62,"West Pokot","Male","Registered Partnership",0,68,"Bronze",300000,"Congenital",28/05/21 10:23,"No","No",1
+63,"Siaya","Male","Single",0,50,"Bronze",500000,"Chronic",27/09/01 03:43,"Yes","No",2
+64,"Wajir","Male","Separated",2,38,"Bronze",1000000,"Subacute",09/08/19 07:39,"No","No",15
+65,"Uasin Gishu","Female","Separated",0,53,"Gold",300000,"Chronic",06/11/11 19:17,"No","No",16
+66,"Kiambu","Female","Separated",1,39,"Bronze",1000000,"Congenital",31/08/16 14:14,"Yes","No",17
+67,"Uasin Gishu","Female","Single",2,43,"Bronze",1000000,"Subacute",13/06/18 10:51,"No","No",13
+68,"West Pokot","Male","Separated",1,49,"Bronze",300000,"Chronic",07/12/09 15:01,"No","No",12
+69,"Lamu","Male","Widowed",2,48,"Silver",300000,"Congenital",01/02/20 04:20,"No","No",10
+70,"Migori","Female","Single",1,43,"Bronze",300000,"Acute",14/10/02 05:51,"No","No",2
+71,"Samburu","Female","Separated",1,43,"Gold",500000,"Subacute",08/04/10 05:36,"Yes","No",17
+72,"Kisii","Female","Separated",4,43,"Silver",1000000,"Congenital",03/08/08 06:51,"No","No",2
+73,"Embu","Male","Widowed",1,67,"Bronze",1000000,"Congenital",20/06/15 20:30,"Yes","No",21
+74,"Meru","Male","Registered Partnership",1,50,"Gold",300000,"Acute",23/07/10 21:18,"No","No",8
+75,"Kajiado","Female","Single",0,73,"Gold",300000,"Subacute",11/01/17 17:48,"No","No",11
+76,"Turkana","Male","Separated",5,63,"Silver",500000,"Chronic",23/03/18 21:51,"Yes","No",5
+77,"Turkana","Female","Separated",1,48,"Silver",500000,"Acute",30/10/14 18:53,"No","No",3
+78,"Migori","Female","Married",2,65,"Bronze",300000,"Chronic",01/06/05 01:35,"No","Yes",11
+79,"Mombasa (County)","Female","Single",5,55,"Gold",500000,"Congenital",18/12/01 05:54,"No","Yes",17
+80,"Busia","Male","Single",2,66,"Silver",300000,"Acute",30/01/02 22:35,"Yes","No",5
+81,"Vihiga","Male","Separated",0,53,"Bronze",1000000,"Acute",23/05/04 22:35,"Yes","Yes",6
+82,"West Pokot","Female","Single",2,32,"Silver",500000,"Subacute",28/12/13 13:20,"No","No",18
+83,"Tharaka-Nithi","Male","Single",0,59,"Silver",300000,"Chronic",16/11/04 10:48,"No","No",7
+84,"Meru","Female","Separated",2,40,"Bronze",300000,"Congenital",31/03/11 02:37,"Yes","No",20
+85,"Migori","Female","Single",4,67,"Bronze",300000,"Acute",20/12/17 19:10,"Yes","Yes",4
+86,"Uasin Gishu","Female","Widowed",4,53,"Bronze",1000000,"Subacute",20/01/17 21:36,"Yes","No",8
+87,"Bomet","Female","Single",2,30,"Bronze",1000000,"Congenital",26/12/18 12:14,"No","No",7
+88,"Turkana","Male","Single",5,31,"Silver",1000000,"Acute",24/05/17 23:51,"Yes","No",11
+89,"Samburu","Male","Separated",5,50,"Silver",1000000,"Acute",11/02/05 18:55,"No","No",10
+90,"West Pokot","Male","Single",3,53,"Gold",500000,"Chronic",10/07/13 02:05,"No","No",14
+91,"Turkana","Male","Single",4,44,"Bronze",500000,"Congenital",28/10/02 23:03,"No","No",13
+92,"Meru","Male","Single",4,43,"Silver",300000,"Congenital",28/07/19 22:06,"No","Yes",9
+93,"Kisumu","Male","Separated",3,40,"Bronze",300000,"Chronic",31/03/18 07:53,"Yes","Yes",19
+94,"Narok","Male","Single",5,73,"Bronze",500000,"Chronic",29/08/22 07:31,"No","No",20
+95,"Trans-Nzoia","Male","Single",1,66,"Silver",1000000,"Congenital",19/09/08 14:26,"No","No",18
+96,"Nakuru","Female","Married",2,38,"Silver",1000000,"Congenital",05/10/19 03:46,"Yes","No",1
+97,"Embu","Male","Single",5,68,"Bronze",500000,"Acute",05/04/21 06:30,"No","No",2
+98,"West Pokot","Male","Separated",5,38,"Bronze",300000,"Acute",07/02/01 01:21,"Yes","Yes",7
+99,"Busia","Male","Separated",4,37,"Silver",500000,"Acute",18/10/06 02:39,"No","Yes",8
+100,"West Pokot","Female","Married",4,59,"Bronze",500000,"Subacute",24/07/08 13:34,"Yes","Yes",19
+101,"Machakos","Female","Married",5,62,"Gold",300000,"Chronic",20/04/03 02:39,"No","No",18
+102,"Embu","Male","Separated",0,44,"Gold",500000,"Acute",03/04/05 19:45,"Yes","No",3
+103,"Kajiado","Male","Single",0,38,"Silver",300000,"Subacute",06/06/05 02:22,"Yes","No",10
+104,"Trans-Nzoia","Female","Widowed",5,55,"Silver",1000000,"Subacute",23/03/20 08:36,"Yes","No",14
+105,"Turkana","Female","Separated",5,74,"Bronze",300000,"Congenital",05/01/13 09:49,"No","Yes",2
+106,"Vihiga","Male","Single",0,57,"Silver",500000,"Congenital",01/02/02 02:37,"No","No",9
+107,"Kisii","Male","Separated",1,50,"Bronze",300000,"Chronic",02/10/04 22:48,"Yes","No",17
+108,"Kwale","Male","Married",4,51,"Bronze",300000,"Subacute",19/11/13 21:12,"No","No",21
+109,"Migori","Female","Married",5,48,"Bronze",500000,"Subacute",20/11/18 11:22,"No","No",12
+110,"Nandi","Female","Separated",5,74,"Bronze",500000,"Acute",11/01/01 21:56,"Yes","No",7
+111,"Turkana","Female","Separated",4,42,"Silver",300000,"Subacute",10/09/08 03:12,"Yes","Yes",15
+112,"Turkana","Female","Single",4,47,"Gold",300000,"Acute",22/12/18 12:45,"Yes","No",8
+113,"Turkana","Male","Separated",5,49,"Bronze",500000,"Subacute",24/01/07 05:43,"No","No",14
+114,"Garissa","Male","Married",0,45,"Silver",1000000,"Subacute",16/02/13 04:49,"Yes","No",19
+115,"Nandi","Male","Separated",0,31,"Bronze",300000,"Congenital",05/07/15 03:30,"No","No",19
+116,"Tharaka-Nithi","Female","Single",3,39,"Silver",300000,"Acute",12/09/06 16:09,"Yes","No",11
+117,"Elgeyo-Marakwet","Female","Separated",0,33,"Silver",300000,"Subacute",11/05/10 10:49,"No","No",12
+118,"Kiambu","Female","Single",3,72,"Bronze",500000,"Subacute",30/07/19 20:03,"No","No",2
+119,"Marsabit","Female","Married",4,62,"Bronze",1000000,"Subacute",05/11/07 06:01,"Yes","No",19
+120,"Kisii","Female","Married",1,46,"Gold",300000,"Acute",24/11/08 17:12,"Yes","Yes",16
+121,"Embu","Male","Married",4,31,"Bronze",300000,"Acute",04/03/14 20:46,"No","No",16
+122,"Kiambu","Female","Married",1,30,"Gold",500000,"Subacute",22/02/21 23:44,"No","No",21
+123,"Meru","Female","Married",5,67,"Silver",300000,"Chronic",06/11/17 06:17,"Yes","No",16
+124,"Migori","Female","Separated",2,55,"Gold",300000,"Congenital",04/04/06 09:13,"No","Yes",5
+125,"Tharaka-Nithi","Female","Single",0,63,"Silver",500000,"Subacute",18/10/19 01:36,"No","No",13
+126,"Kiambu","Male","Separated",0,57,"Gold",1000000,"Subacute",02/02/22 04:39,"No","No",14
+127,"Embu","Female","Married",2,73,"Gold",300000,"Acute",03/05/00 09:06,"Yes","No",3
+128,"Kitui","Female","Married",5,71,"Gold",500000,"Acute",21/03/03 16:07,"Yes","Yes",16
+129,"West Pokot","Male","Married",2,38,"Silver",500000,"Chronic",15/10/09 01:29,"No","No",17
+130,"Bomet","Male","Single",5,58,"Gold",500000,"Subacute",21/11/04 17:55,"Yes","No",6
+131,"Tharaka-Nithi","Male","Widowed",3,38,"Silver",500000,"Congenital",11/04/08 17:36,"No","No",12
+132,"Tharaka-Nithi","Male","Single",2,33,"Bronze",1000000,"Acute",30/11/01 05:49,"No","Yes",4
+133,"Nandi","Male","Single",0,43,"Bronze",1000000,"Congenital",25/08/10 14:06,"No","No",15
+134,"Meru","Male","Widowed",1,70,"Bronze",300000,"Acute",24/08/18 23:43,"No","No",16
+135,"Wajir","Female","Single",3,52,"Bronze",300000,"Subacute",09/01/11 12:10,"No","No",8
+136,"Turkana","Female","Single",1,74,"Gold",300000,"Congenital",28/11/19 08:09,"No","No",10
+137,"Meru","Male","Separated",5,42,"Silver",1000000,"Acute",06/09/14 20:15,"No","No",11
+138,"Embu","Female","Widowed",2,53,"Bronze",300000,"Congenital",28/06/09 20:18,"Yes","No",21
+139,"Kisii","Female","Single",2,67,"Bronze",300000,"Subacute",01/04/00 13:11,"No","No",4
+140,"Turkana","Male","Single",0,35,"Gold",300000,"Congenital",21/04/05 20:37,"Yes","No",15
+141,"Embu","Female","Separated",3,57,"Bronze",500000,"Acute",23/10/05 22:40,"No","Yes",16
+142,"Samburu","Female","Separated",5,39,"Bronze",300000,"Chronic",22/06/19 08:23,"No","No",4
+143,"Embu","Male","Married",5,48,"Bronze",1000000,"Chronic",22/05/12 02:13,"Yes","Yes",11
+144,"Baringo","Female","Separated",3,68,"Bronze",500000,"Acute",07/10/13 22:23,"No","No",10
+145,"Uasin Gishu","Female","Separated",3,64,"Bronze",500000,"Acute",27/02/22 12:25,"No","No",7
+146,"Narok","Male","Married",0,40,"Gold",300000,"Congenital",25/08/05 06:06,"Yes","No",17
+147,"Kajiado","Female","Separated",5,48,"Bronze",300000,"Chronic",05/02/05 15:41,"No","No",3
+148,"West Pokot","Male","Separated",2,33,"Gold",300000,"Acute",30/09/11 00:28,"No","No",19
+149,"West Pokot","Female","Separated",5,30,"Gold",500000,"Subacute",18/12/05 22:39,"No","Yes",1
+150,"Kisii","Female","Separated",2,33,"Bronze",300000,"Acute",21/03/10 11:14,"Yes","No",19
+151,"Migori","Female","Widowed",5,62,"Bronze",500000,"Subacute",08/03/22 04:15,"No","No",1
+152,"Embu","Female","Married",3,31,"Bronze",300000,"Subacute",23/06/01 06:00,"Yes","No",8
+153,"Baringo","Female","Registered Partnership",0,53,"Bronze",1000000,"Congenital",16/02/06 22:48,"Yes","No",18
+154,"Marsabit","Male","Separated",4,67,"Bronze",300000,"Acute",09/10/16 17:56,"Yes","No",13
+155,"Nairobi (County)","Female","Married",3,36,"Bronze",300000,"Chronic",15/06/10 12:07,"Yes","No",17
+156,"Mombasa (County)","Female","Separated",3,61,"Silver",300000,"Subacute",17/01/14 01:15,"No","No",8
+157,"West Pokot","Female","Single",4,33,"Gold",300000,"Congenital",16/08/22 15:46,"No","No",11
+158,"Busia","Female","Single",3,42,"Silver",500000,"Congenital",03/01/06 14:35,"No","Yes",2
+159,"Machakos","Male","Single",5,57,"Bronze",500000,"Chronic",19/06/00 14:32,"Yes","No",7
+160,"Bomet","Male","Separated",5,34,"Gold",1000000,"Chronic",22/07/08 23:09,"Yes","No",10
+161,"Embu","Male","Single",2,61,"Silver",1000000,"Acute",14/03/21 15:23,"No","Yes",1
+162,"Turkana","Female","Married",4,41,"Gold",500000,"Subacute",15/11/05 00:45,"Yes","No",21
+163,"Kilifi","Male","Single",5,59,"Gold",500000,"Chronic",04/04/18 13:52,"Yes","No",19
+164,"Trans-Nzoia","Male","Widowed",1,47,"Bronze",500000,"Congenital",25/12/07 22:31,"No","No",16
+165,"Nandi","Female","Separated",1,73,"Bronze",500000,"Chronic",03/11/15 16:58,"Yes","No",12
+166,"Elgeyo-Marakwet","Male","Separated",5,59,"Silver",1000000,"Congenital",15/11/09 22:00,"Yes","No",12
+167,"Kericho","Male","Separated",3,33,"Bronze",1000000,"Subacute",04/10/17 04:10,"No","No",9
+168,"Vihiga","Male","Single",1,31,"Bronze",1000000,"Subacute",14/11/13 03:05,"Yes","No",6
+169,"Makueni","Female","Widowed",3,59,"Bronze",300000,"Congenital",24/10/13 12:33,"Yes","Yes",14
+170,"Kisii","Male","Separated",3,54,"Silver",300000,"Subacute",17/11/17 02:47,"Yes","No",21
+171,"Mombasa (County)","Male","Widowed",1,35,"Bronze",300000,"Chronic",30/04/10 15:21,"Yes","No",12
+172,"Migori","Male","Married",0,41,"Bronze",300000,"Subacute",12/08/08 01:31,"No","Yes",17
+173,"West Pokot","Male","Single",0,61,"Gold",300000,"Subacute",27/01/02 05:11,"Yes","No",15
+174,"Taita–Taveta","Male","Separated",0,57,"Silver",300000,"Congenital",05/11/19 19:43,"Yes","No",15
+175,"Bomet","Female","Separated",5,51,"Bronze",300000,"Chronic",23/02/07 14:20,"No","No",2
+176,"Migori","Female","Married",1,51,"Bronze",500000,"Chronic",27/04/03 19:12,"Yes","Yes",8
+177,"Kisii","Female","Single",3,34,"Bronze",300000,"Chronic",30/07/19 14:50,"No","No",11
+178,"West Pokot","Female","Separated",0,47,"Silver",1000000,"Chronic",09/06/11 09:26,"Yes","No",17
+179,"Vihiga","Female","Married",2,72,"Bronze",1000000,"Congenital",25/06/02 03:05,"Yes","Yes",20
+180,"Marsabit","Female","Separated",4,37,"Bronze",300000,"Subacute",15/07/12 00:35,"Yes","No",20
+181,"Isiolo","Male","Separated",0,73,"Bronze",300000,"Acute",25/07/05 09:15,"Yes","No",10
+182,"Migori","Male","Single",1,58,"Bronze",500000,"Acute",20/01/08 04:30,"No","No",7
+183,"Nandi","Male","Separated",5,48,"Gold",300000,"Congenital",14/09/05 04:23,"No","No",16
+184,"Vihiga","Male","Single",1,70,"Gold",1000000,"Congenital",25/05/12 18:45,"No","No",10
+185,"Kisii","Female","Single",1,38,"Silver",500000,"Subacute",10/04/12 09:54,"No","Yes",3
+186,"Kitui","Female","Widowed",3,50,"Bronze",500000,"Acute",15/02/13 13:52,"No","Yes",12
+187,"Mandera","Female","Separated",5,53,"Bronze",300000,"Subacute",09/05/11 23:53,"No","No",15
+188,"Turkana","Female","Single",1,39,"Bronze",1000000,"Acute",25/12/11 08:55,"No","No",6
+189,"Wajir","Female","Separated",2,49,"Silver",300000,"Subacute",18/04/13 23:46,"No","No",2
+190,"Kisii","Female","Single",5,60,"Gold",500000,"Chronic",01/01/03 22:38,"No","No",16
+191,"Nandi","Female","Single",2,71,"Bronze",500000,"Chronic",16/10/05 05:56,"Yes","No",15
+192,"Kajiado","Male","Married",0,55,"Silver",1000000,"Acute",11/02/22 23:46,"Yes","No",4
+193,"West Pokot","Female","Single",3,41,"Silver",300000,"Acute",04/02/14 21:36,"Yes","No",15
+194,"Busia","Male","Single",3,56,"Bronze",1000000,"Subacute",13/05/02 10:48,"No","No",12
+195,"Kiambu","Male","Separated",2,50,"Silver",300000,"Subacute",23/02/20 08:49,"No","No",9
+196,"Turkana","Female","Separated",4,64,"Gold",300000,"Subacute",30/08/16 18:21,"No","No",4
+197,"Vihiga","Female","Single",2,58,"Bronze",1000000,"Chronic",22/02/08 01:52,"No","No",4
+198,"Murang'a","Female","Married",2,67,"Bronze",1000000,"Chronic",19/03/21 20:32,"No","Yes",2
+199,"Trans-Nzoia","Female","Married",2,47,"Silver",500000,"Acute",05/02/17 15:51,"No","No",16
+200,"Turkana","Male","Single",1,39,"Bronze",500000,"Congenital",16/07/20 19:18,"Yes","No",6
+201,"Kilifi","Female","Separated",4,63,"Silver",500000,"Subacute",22/02/19 23:45,"No","No",6
+202,"Kisii","Male","Married",0,38,"Gold",300000,"Chronic",23/09/18 00:27,"No","No",18
+203,"Kisii","Male","Widowed",1,47,"Bronze",300000,"Subacute",16/10/12 11:59,"No","No",9
+204,"Turkana","Male","Married",4,50,"Silver",300000,"Congenital",12/12/18 23:49,"No","Yes",7
+205,"Kericho","Male","Separated",2,50,"Bronze",1000000,"Chronic",15/11/17 13:53,"No","No",16
+206,"Trans-Nzoia","Female","Separated",4,59,"Bronze",500000,"Chronic",06/12/04 03:10,"No","Yes",17
+207,"Uasin Gishu","Male","Separated",3,69,"Bronze",300000,"Congenital",16/05/20 19:15,"No","No",1
+208,"Kilifi","Male","Separated",2,32,"Bronze",500000,"Congenital",28/08/00 20:03,"No","No",5
+209,"Kajiado","Male","Widowed",2,53,"Silver",300000,"Congenital",08/11/03 00:38,"Yes","No",11
+210,"Kericho","Female","Single",3,42,"Silver",300000,"Chronic",23/07/14 03:19,"Yes","No",13
+211,"Vihiga","Female","Separated",5,66,"Bronze",300000,"Chronic",27/04/18 02:20,"No","No",16
+212,"West Pokot","Male","Single",0,52,"Bronze",500000,"Congenital",29/11/16 14:33,"Yes","No",5
+213,"Turkana","Male","Widowed",5,49,"Bronze",300000,"Acute",29/07/02 04:41,"No","Yes",17
+214,"Nairobi (County)","Female","Single",2,62,"Gold",1000000,"Chronic",30/08/06 06:43,"Yes","No",8
+215,"Kisii","Male","Widowed",5,61,"Gold",300000,"Acute",13/07/18 11:55,"Yes","No",7
+216,"Vihiga","Male","Separated",1,43,"Silver",300000,"Acute",18/02/05 16:20,"Yes","No",6
+217,"Trans-Nzoia","Male","Single",4,38,"Bronze",500000,"Chronic",26/01/09 02:59,"No","No",2
+218,"Uasin Gishu","Female","Widowed",1,62,"Bronze",300000,"Subacute",30/05/00 09:16,"Yes","No",19
+219,"Kisii","Male","Single",4,67,"Gold",1000000,"Chronic",03/04/04 07:26,"Yes","No",4
+220,"Turkana","Male","Widowed",3,58,"Silver",1000000,"Chronic",21/07/01 13:07,"No","No",7
+221,"Nandi","Female","Widowed",0,36,"Bronze",300000,"Congenital",18/05/19 01:23,"No","No",11
+222,"Migori","Male","Single",3,50,"Silver",1000000,"Congenital",27/05/10 04:26,"Yes","Yes",5
+223,"Kisumu","Female","Widowed",4,58,"Bronze",300000,"Congenital",24/07/21 03:52,"Yes","No",5
+224,"Vihiga","Male","Married",3,45,"Bronze",300000,"Subacute",13/01/05 03:30,"No","No",2
+225,"Taita–Taveta","Male","Separated",1,49,"Gold",1000000,"Chronic",31/05/16 09:12,"No","No",19
+226,"Turkana","Male","Separated",0,74,"Silver",500000,"Acute",05/04/01 16:35,"No","No",6
+227,"Migori","Female","Single",3,51,"Silver",300000,"Chronic",05/05/03 10:32,"Yes","No",3
+228,"Tharaka-Nithi","Male","Single",4,43,"Bronze",300000,"Chronic",24/03/02 23:47,"Yes","No",9
+229,"Samburu","Female","Separated",5,57,"Bronze",300000,"Chronic",05/11/02 00:56,"No","No",4
+230,"Samburu","Female","Single",2,42,"Bronze",1000000,"Chronic",26/01/07 08:30,"No","No",8
+231,"Samburu","Female","Single",2,32,"Bronze",300000,"Congenital",14/05/21 10:18,"Yes","Yes",5
+232,"Tharaka-Nithi","Male","Single",1,61,"Silver",1000000,"Chronic",19/07/17 02:48,"No","No",10
+233,"Marsabit","Male","Separated",0,59,"Gold",300000,"Subacute",08/12/04 21:36,"No","No",11
+234,"Baringo","Female","Single",1,66,"Gold",500000,"Congenital",03/08/15 15:07,"Yes","No",5
+235,"Embu","Female","Widowed",1,38,"Silver",300000,"Subacute",20/08/01 16:49,"No","No",2
+236,"West Pokot","Male","Widowed",0,66,"Silver",300000,"Chronic",29/10/08 10:39,"No","No",11
+237,"Migori","Male","Single",5,69,"Bronze",300000,"Chronic",20/02/08 22:13,"Yes","No",3
+238,"West Pokot","Female","Married",1,55,"Silver",500000,"Acute",30/10/16 20:59,"No","Yes",19
+239,"West Pokot","Female","Single",2,51,"Silver",300000,"Subacute",22/11/05 15:57,"No","No",6
+240,"Kisii","Male","Married",3,69,"Bronze",300000,"Congenital",18/12/05 06:40,"No","No",17
+241,"Kwale","Female","Single",1,58,"Bronze",300000,"Subacute",29/12/20 23:25,"Yes","No",15
+242,"Marsabit","Female","Married",5,66,"Silver",500000,"Acute",26/06/19 12:40,"Yes","No",4
+243,"Kajiado","Male","Widowed",0,37,"Silver",500000,"Subacute",25/06/12 03:25,"Yes","No",20
+244,"Kakamega","Female","Separated",1,73,"Bronze",1000000,"Chronic",04/03/16 02:15,"No","Yes",3
+245,"Kitui","Female","Widowed",4,62,"Silver",500000,"Congenital",15/03/07 09:58,"No","No",20
+246,"Kisii","Female","Widowed",0,69,"Silver",300000,"Acute",01/01/16 16:02,"No","No",18
+247,"Migori","Male","Separated",5,37,"Bronze",300000,"Chronic",20/09/05 08:26,"Yes","No",14
+248,"Kisumu","Male","Married",2,34,"Bronze",1000000,"Congenital",18/08/20 19:03,"No","No",18
+249,"Mombasa (County)","Female","Married",4,33,"Bronze",300000,"Acute",24/06/12 05:31,"Yes","No",12
+250,"Lamu","Male","Single",3,46,"Silver",300000,"Congenital",15/03/12 04:59,"No","No",2
+251,"Tharaka-Nithi","Male","Widowed",4,42,"Gold",300000,"Chronic",29/06/15 02:22,"No","No",3
+252,"Siaya","Male","Widowed",4,33,"Gold",1000000,"Congenital",06/07/20 18:20,"No","No",10
+253,"Nandi","Female","Married",5,46,"Silver",300000,"Chronic",30/12/21 10:10,"Yes","Yes",2
+254,"Kiambu","Female","Married",3,58,"Bronze",500000,"Congenital",08/10/04 16:11,"No","No",15
+255,"West Pokot","Male","Separated",5,54,"Bronze",1000000,"Congenital",01/04/22 10:26,"Yes","No",2
+256,"Garissa","Male","Separated",0,35,"Bronze",300000,"Chronic",22/11/08 22:08,"Yes","No",6
+257,"Garissa","Female","Separated",1,44,"Gold",500000,"Subacute",15/01/13 20:55,"No","No",16
+258,"Migori","Female","Single",5,47,"Bronze",300000,"Subacute",30/09/19 17:04,"No","No",1
+259,"Baringo","Female","Separated",5,43,"Bronze",300000,"Acute",15/12/09 13:19,"No","No",10
+260,"Kisumu","Female","Separated",0,71,"Bronze",300000,"Acute",04/01/00 11:30,"No","No",3
+261,"Kisii","Female","Separated",3,53,"Gold",500000,"Acute",14/06/00 09:26,"No","No",17
+262,"Nandi","Female","Married",4,60,"Gold",300000,"Congenital",30/03/14 09:05,"Yes","No",6
+263,"Kisumu","Male","Separated",0,70,"Bronze",500000,"Chronic",22/06/03 22:45,"No","Yes",10
+264,"Turkana","Female","Widowed",1,65,"Bronze",300000,"Subacute",20/08/07 23:24,"Yes","No",12
+265,"Kisii","Male","Separated",1,41,"Gold",1000000,"Chronic",13/02/16 08:53,"No","No",8
+266,"Vihiga","Female","Single",2,66,"Bronze",300000,"Chronic",14/08/16 01:47,"No","No",2
+267,"Machakos","Male","Separated",5,35,"Silver",1000000,"Subacute",01/06/20 12:39,"No","No",1
+268,"Elgeyo-Marakwet","Female","Single",1,52,"Bronze",300000,"Chronic",05/04/20 01:11,"No","No",9
+269,"Vihiga","Female","Separated",5,47,"Bronze",300000,"Congenital",09/09/20 16:46,"No","No",4
+270,"Nandi","Male","Single",5,64,"Silver",300000,"Acute",22/08/16 06:54,"Yes","No",1
+271,"Turkana","Male","Separated",3,50,"Silver",1000000,"Congenital",11/11/21 09:23,"Yes","No",19
+272,"West Pokot","Male","Single",2,33,"Silver",300000,"Congenital",13/12/10 21:13,"Yes","No",3
+273,"Embu","Male","Separated",3,32,"Bronze",300000,"Subacute",10/01/18 09:41,"Yes","No",12
+274,"Vihiga","Male","Separated",4,67,"Bronze",500000,"Congenital",12/08/01 22:13,"No","Yes",18
+275,"Kilifi","Male","Separated",2,38,"Silver",300000,"Acute",04/10/03 23:40,"Yes","No",12
+276,"Lamu","Male","Widowed",5,67,"Silver",300000,"Congenital",04/12/16 14:48,"No","No",16
+277,"Isiolo","Male","Widowed",2,70,"Bronze",300000,"Congenital",13/09/06 07:09,"Yes","No",13
+278,"Kisumu","Female","Separated",3,72,"Bronze",300000,"Congenital",10/01/22 11:22,"Yes","No",2
+279,"Busia","Male","Separated",2,33,"Bronze",500000,"Congenital",14/09/17 19:52,"Yes","No",13
+280,"West Pokot","Male","Separated",4,32,"Silver",500000,"Congenital",24/09/08 11:26,"Yes","No",9
+281,"Marsabit","Male","Separated",1,60,"Bronze",500000,"Congenital",31/07/13 23:11,"Yes","Yes",17
+282,"West Pokot","Male","Married",3,43,"Gold",300000,"Congenital",05/06/12 04:06,"Yes","No",21
+283,"Kisumu","Female","Widowed",0,65,"Silver",300000,"Chronic",24/06/15 08:16,"No","Yes",3
+284,"Marsabit","Male","Married",2,66,"Bronze",300000,"Congenital",07/01/00 18:18,"No","No",3
+285,"Tharaka-Nithi","Male","Married",0,65,"Silver",500000,"Acute",18/09/07 22:44,"No","No",18
+286,"Vihiga","Female","Single",3,52,"Bronze",500000,"Chronic",18/01/21 04:51,"Yes","No",4
+287,"Embu","Female","Single",5,61,"Silver",1000000,"Congenital",25/09/11 00:19,"No","No",7
+288,"Kisii","Female","Separated",1,55,"Gold",300000,"Subacute",06/07/22 10:21,"No","No",17
+289,"Kiambu","Female","Widowed",3,49,"Gold",1000000,"Chronic",20/11/14 09:42,"No","No",2
+290,"Tharaka-Nithi","Female","Separated",5,69,"Gold",1000000,"Congenital",12/01/08 17:15,"Yes","No",10
+291,"Vihiga","Female","Separated",4,71,"Gold",300000,"Congenital",23/10/20 23:26,"No","No",16
+292,"Trans-Nzoia","Male","Separated",5,60,"Gold",500000,"Subacute",09/06/15 06:23,"No","Yes",6
+293,"Elgeyo-Marakwet","Female","Widowed",4,44,"Bronze",300000,"Congenital",16/02/03 16:39,"No","No",6
+294,"Kiambu","Female","Separated",0,42,"Silver",300000,"Congenital",01/09/06 17:47,"No","No",20
+295,"Uasin Gishu","Female","Single",3,57,"Silver",300000,"Congenital",09/09/07 08:27,"No","Yes",21
+296,"Trans-Nzoia","Male","Separated",4,73,"Bronze",1000000,"Subacute",01/12/02 13:45,"No","No",5
+297,"Nakuru","Female","Widowed",5,41,"Silver",500000,"Acute",08/06/21 17:15,"Yes","No",15
+298,"Nyeri","Female","Married",3,74,"Bronze",500000,"Congenital",10/03/03 12:22,"No","No",18
+299,"Turkana","Male","Single",1,55,"Bronze",300000,"Subacute",15/06/02 07:18,"Yes","No",15
+300,"Kitui","Female","Separated",3,52,"Bronze",300000,"Subacute",10/08/00 23:41,"Yes","No",3
+301,"West Pokot","Female","Separated",4,67,"Silver",1000000,"Chronic",19/06/15 23:07,"Yes","Yes",2
+302,"Vihiga","Female","Separated",3,36,"Bronze",300000,"Subacute",11/04/17 14:00,"Yes","No",10
+303,"Turkana","Female","Separated",0,49,"Bronze",300000,"Acute",17/04/15 05:58,"Yes","No",10
+304,"Tharaka-Nithi","Female","Widowed",3,54,"Silver",300000,"Congenital",12/02/09 01:31,"No","No",3
+305,"Trans-Nzoia","Male","Single",0,55,"Gold",300000,"Chronic",02/06/15 12:13,"Yes","No",4
+306,"Wajir","Male","Married",4,71,"Bronze",300000,"Chronic",29/07/18 11:38,"Yes","Yes",15
+307,"Kwale","Female","Single",5,34,"Gold",500000,"Congenital",16/04/04 23:10,"No","No",8
+308,"Busia","Female","Married",4,54,"Gold",1000000,"Congenital",10/09/00 15:49,"No","No",6
+309,"Kilifi","Female","Separated",1,59,"Gold",300000,"Chronic",14/05/20 19:57,"Yes","Yes",6
+310,"Laikipia","Male","Widowed",3,45,"Silver",300000,"Chronic",13/03/17 18:49,"Yes","Yes",13
+311,"Kilifi","Female","Widowed",1,38,"Bronze",300000,"Congenital",22/04/05 22:15,"Yes","No",1
+312,"Turkana","Male","Widowed",0,63,"Gold",1000000,"Chronic",08/10/09 14:26,"No","No",14
+313,"Machakos","Female","Separated",3,48,"Gold",500000,"Congenital",07/09/12 18:52,"No","No",17
+314,"Tharaka-Nithi","Female","Single",2,32,"Bronze",500000,"Acute",23/03/06 23:06,"No","No",4
+315,"Kisii","Female","Married",1,38,"Bronze",300000,"Congenital",17/06/16 01:27,"Yes","Yes",21
+316,"Baringo","Female","Separated",5,36,"Silver",500000,"Congenital",14/04/08 22:47,"Yes","Yes",14
+317,"Uasin Gishu","Female","Married",0,34,"Gold",1000000,"Chronic",09/03/17 00:24,"Yes","No",19
+318,"Siaya","Female","Single",3,56,"Bronze",500000,"Subacute",19/02/14 00:04,"No","No",3
+319,"Narok","Male","Separated",2,58,"Bronze",500000,"Chronic",08/07/00 08:36,"No","No",8
+320,"Tharaka-Nithi","Female","Married",1,36,"Bronze",300000,"Congenital",27/06/16 10:32,"Yes","No",9
+321,"Kisii","Female","Separated",5,34,"Bronze",300000,"Chronic",16/12/13 17:59,"No","Yes",8
+322,"Kajiado","Male","Single",1,34,"Bronze",300000,"Congenital",14/03/07 05:56,"No","Yes",16
+323,"Kwale","Female","Widowed",0,66,"Bronze",500000,"Congenital",27/04/21 23:07,"Yes","No",18
+324,"Trans-Nzoia","Male","Separated",5,53,"Gold",300000,"Chronic",04/04/12 09:45,"Yes","No",18
+325,"Meru","Female","Separated",0,50,"Bronze",500000,"Congenital",21/04/07 23:06,"Yes","Yes",10
+326,"Marsabit","Male","Married",0,56,"Silver",500000,"Acute",08/03/12 06:29,"No","No",8
+327,"Turkana","Male","Married",5,39,"Silver",500000,"Acute",26/08/09 12:57,"Yes","No",19
+328,"Baringo","Male","Married",1,68,"Bronze",1000000,"Congenital",13/01/11 09:08,"No","No",6
+329,"Kisii","Male","Separated",0,69,"Gold",500000,"Subacute",09/08/20 18:52,"Yes","No",20
+330,"Bomet","Male","Married",0,40,"Bronze",500000,"Chronic",13/08/03 05:49,"No","No",10
+331,"Embu","Female","Separated",3,36,"Bronze",500000,"Acute",04/02/08 22:13,"Yes","No",17
+332,"Homa Bay","Male","Separated",0,57,"Gold",500000,"Congenital",03/12/06 14:07,"Yes","No",12
+333,"Kitui","Female","Single",4,63,"Bronze",300000,"Subacute",12/01/04 19:24,"Yes","No",7
+334,"Kericho","Male","Separated",5,58,"Bronze",500000,"Chronic",12/04/09 11:36,"Yes","Yes",10
+335,"Kilifi","Female","Separated",1,63,"Bronze",1000000,"Subacute",23/06/14 12:49,"Yes","No",21
+336,"Migori","Male","Single",3,63,"Gold",300000,"Chronic",14/06/17 02:18,"Yes","No",8
+337,"Laikipia","Male","Married",0,61,"Gold",300000,"Congenital",19/03/03 03:15,"Yes","Yes",18
+338,"Turkana","Male","Married",1,33,"Silver",300000,"Acute",02/04/17 20:07,"Yes","No",8
+339,"Kwale","Female","Married",1,69,"Gold",300000,"Congenital",19/01/06 00:26,"No","No",16
+340,"Kiambu","Female","Separated",2,70,"Bronze",300000,"Subacute",08/11/12 22:51,"No","No",8
+341,"Narok","Male","Single",1,60,"Bronze",500000,"Acute",06/12/18 22:10,"No","Yes",7
+342,"Kisii","Male","Married",5,66,"Silver",300000,"Acute",02/09/08 08:49,"Yes","Yes",14
+343,"Embu","Female","Married",1,52,"Silver",300000,"Acute",22/02/08 02:38,"No","No",8
+344,"Trans-Nzoia","Male","Single",4,43,"Silver",500000,"Acute",21/11/09 12:36,"Yes","Yes",13
+345,"Wajir","Female","Separated",3,60,"Gold",300000,"Acute",20/03/00 12:17,"Yes","No",17
+346,"Kiambu","Female","Single",2,48,"Bronze",500000,"Subacute",03/09/13 17:05,"No","No",6
+347,"Nandi","Male","Single",1,61,"Bronze",300000,"Acute",28/04/07 03:05,"No","No",3
+348,"Embu","Female","Single",3,51,"Silver",300000,"Chronic",24/06/09 14:51,"No","No",1
+349,"Kisii","Male","Married",0,60,"Bronze",1000000,"Congenital",05/05/05 17:40,"Yes","No",2
+350,"Kiambu","Male","Married",2,74,"Bronze",1000000,"Subacute",20/08/21 05:22,"Yes","No",20
+351,"Siaya","Male","Widowed",4,74,"Bronze",500000,"Acute",06/01/07 23:26,"Yes","No",8
+352,"Laikipia","Male","Separated",0,61,"Bronze",1000000,"Acute",01/04/12 01:01,"No","No",4
+353,"Trans-Nzoia","Male","Married",1,54,"Bronze",300000,"Chronic",04/04/19 19:54,"Yes","Yes",5
+354,"Migori","Female","Single",4,69,"Bronze",1000000,"Chronic",04/09/18 17:12,"Yes","No",6
+355,"Trans-Nzoia","Female","Separated",0,72,"Gold",300000,"Subacute",02/08/06 13:13,"No","No",16
+356,"Turkana","Female","Married",1,52,"Gold",500000,"Chronic",13/05/05 23:42,"Yes","No",2
+357,"Vihiga","Male","Separated",2,36,"Bronze",1000000,"Subacute",09/10/05 01:54,"Yes","Yes",17
+358,"Kwale","Male","Widowed",5,63,"Bronze",300000,"Chronic",10/06/21 19:27,"Yes","No",9
+359,"Meru","Male","Married",4,42,"Gold",500000,"Acute",20/09/13 01:58,"No","No",17
+360,"Nandi","Female","Single",4,44,"Gold",300000,"Chronic",25/06/19 21:34,"Yes","No",12
+361,"Meru","Female","Married",2,32,"Bronze",500000,"Chronic",13/10/08 10:50,"No","No",4
+362,"Makueni","Male","Separated",5,47,"Bronze",300000,"Chronic",12/06/05 07:55,"No","No",9
+363,"Mombasa (County)","Female","Separated",4,72,"Bronze",1000000,"Chronic",02/12/10 08:35,"No","Yes",15
+364,"Trans-Nzoia","Female","Separated",0,59,"Bronze",500000,"Subacute",21/10/10 16:08,"Yes","No",15
+365,"Embu","Male","Separated",1,63,"Bronze",500000,"Congenital",01/08/14 03:30,"No","Yes",13
+366,"Uasin Gishu","Female","Widowed",4,45,"Silver",500000,"Congenital",11/10/13 15:16,"Yes","No",4
+367,"Nandi","Female","Separated",3,64,"Bronze",1000000,"Subacute",12/03/19 08:00,"Yes","No",10
+368,"Tharaka-Nithi","Female","Single",4,42,"Silver",300000,"Subacute",30/05/12 22:53,"No","No",18
+369,"Trans-Nzoia","Male","Widowed",1,42,"Bronze",300000,"Subacute",26/04/21 22:36,"Yes","No",6
+370,"Turkana","Male","Married",2,53,"Silver",500000,"Acute",12/06/04 22:27,"No","No",16
+371,"Baringo","Female","Separated",1,55,"Bronze",300000,"Acute",18/03/21 17:05,"Yes","Yes",4
+372,"Laikipia","Female","Single",2,62,"Bronze",500000,"Subacute",11/07/07 11:14,"Yes","No",9
+373,"Marsabit","Female","Single",2,37,"Silver",500000,"Chronic",11/01/12 06:51,"Yes","Yes",14
+374,"Bomet","Female","Single",1,66,"Gold",300000,"Chronic",12/06/05 12:10,"Yes","No",20
+375,"Isiolo","Female","Married",3,61,"Bronze",300000,"Subacute",09/09/21 18:52,"No","Yes",21
+376,"Homa Bay","Female","Separated",2,37,"Silver",300000,"Congenital",10/09/04 04:58,"No","No",15
+377,"Mombasa (County)","Female","Single",3,57,"Bronze",500000,"Chronic",24/11/17 01:33,"Yes","No",3
+378,"Meru","Female","Separated",5,62,"Silver",1000000,"Acute",21/11/11 02:19,"No","Yes",4
+379,"Nandi","Male","Married",5,69,"Bronze",300000,"Congenital",18/08/15 15:05,"Yes","No",12
+380,"Embu","Male","Married",1,47,"Silver",500000,"Acute",09/09/20 20:17,"Yes","No",13
+381,"Marsabit","Male","Single",0,71,"Silver",300000,"Congenital",26/06/17 07:06,"Yes","No",3
+382,"Kisumu","Female","Married",4,69,"Bronze",300000,"Acute",05/05/16 14:21,"Yes","No",15
+383,"West Pokot","Female","Single",1,33,"Bronze",500000,"Chronic",04/05/20 19:56,"No","Yes",17
+384,"Migori","Male","Single",1,65,"Silver",500000,"Congenital",10/12/07 07:08,"No","No",18
+385,"Marsabit","Male","Single",5,41,"Bronze",500000,"Acute",29/09/02 17:16,"No","No",1
+386,"Meru","Male","Separated",2,71,"Silver",300000,"Subacute",23/12/04 12:08,"Yes","No",8
+387,"Kilifi","Female","Widowed",4,74,"Bronze",300000,"Congenital",23/08/13 00:03,"Yes","Yes",21
+388,"Mandera","Male","Single",5,32,"Bronze",300000,"Chronic",11/11/12 02:04,"No","No",10
+389,"Kisii","Female","Married",5,30,"Bronze",500000,"Subacute",22/02/19 01:08,"No","No",8
+390,"Narok","Female","Single",0,41,"Bronze",500000,"Acute",07/12/04 22:12,"Yes","No",5
+391,"Kirinyaga","Male","Separated",5,67,"Gold",300000,"Chronic",03/05/02 08:56,"Yes","No",21
+392,"Wajir","Female","Widowed",5,37,"Silver",300000,"Acute",10/02/10 10:34,"Yes","No",2
+393,"Wajir","Female","Separated",3,74,"Bronze",500000,"Chronic",22/07/09 18:27,"No","No",16
+394,"Kwale","Female","Separated",0,52,"Gold",500000,"Acute",11/07/10 01:33,"Yes","No",13
+395,"Embu","Male","Widowed",2,38,"Bronze",500000,"Congenital",22/11/03 15:08,"Yes","Yes",14
+396,"Embu","Male","Separated",0,59,"Silver",300000,"Congenital",25/04/04 04:17,"No","No",17
+397,"Turkana","Male","Married",0,61,"Silver",500000,"Acute",05/11/00 10:15,"Yes","No",21
+398,"Kisii","Female","Single",3,35,"Gold",300000,"Chronic",09/12/13 10:14,"Yes","No",15
+399,"West Pokot","Male","Single",0,58,"Bronze",1000000,"Chronic",17/02/10 14:37,"No","No",9
+400,"Uasin Gishu","Male","Separated",2,66,"Gold",500000,"Chronic",22/07/19 12:40,"Yes","No",1
+401,"Busia","Male","Single",3,55,"Gold",300000,"Chronic",21/07/18 06:58,"No","No",16
+402,"Isiolo","Male","Married",4,39,"Bronze",500000,"Subacute",30/09/20 00:00,"Yes","No",6
+403,"Trans-Nzoia","Male","Married",5,37,"Gold",1000000,"Chronic",20/09/15 16:35,"Yes","No",20
+404,"Samburu","Female","Married",4,45,"Bronze",500000,"Congenital",25/09/05 22:56,"No","No",19
+405,"Kisii","Female","Registered Partnership",1,66,"Bronze",500000,"Subacute",11/10/06 16:00,"No","No",16
+406,"West Pokot","Female","Single",5,51,"Bronze",500000,"Subacute",07/06/15 02:18,"Yes","No",7
+407,"Murang'a","Male","Married",0,59,"Silver",1000000,"Congenital",28/10/04 05:03,"No","No",8
+408,"Turkana","Male","Separated",5,51,"Silver",300000,"Congenital",16/01/19 10:45,"No","No",14
+409,"Migori","Male","Separated",0,46,"Bronze",500000,"Subacute",30/04/09 17:01,"Yes","Yes",7
+410,"Meru","Male","Widowed",2,38,"Bronze",1000000,"Congenital",16/04/10 01:08,"Yes","No",7
+411,"Kiambu","Female","Single",0,54,"Bronze",300000,"Acute",18/05/18 21:20,"No","No",17
+412,"Nandi","Male","Married",0,31,"Bronze",300000,"Acute",01/07/06 01:28,"Yes","No",18
+413,"Turkana","Female","Single",5,60,"Bronze",300000,"Chronic",17/07/21 04:16,"No","Yes",10
+414,"Tharaka-Nithi","Male","Separated",4,58,"Bronze",500000,"Acute",14/05/09 12:01,"Yes","Yes",3
+415,"Isiolo","Female","Separated",5,46,"Gold",300000,"Chronic",15/04/13 22:27,"Yes","No",18
+416,"Migori","Female","Separated",5,57,"Silver",300000,"Chronic",09/01/18 03:50,"No","No",20
+417,"Machakos","Female","Single",4,65,"Bronze",500000,"Congenital",25/06/05 20:34,"No","Yes",3
+418,"Kericho","Male","Married",5,64,"Silver",300000,"Subacute",31/07/20 00:36,"No","No",11
+419,"Mombasa (County)","Female","Single",4,72,"Gold",300000,"Acute",17/11/01 17:17,"No","No",14
+420,"Bomet","Female","Single",2,66,"Bronze",300000,"Congenital",05/08/03 05:55,"Yes","No",9
+421,"Vihiga","Female","Married",1,54,"Silver",300000,"Chronic",03/02/13 12:14,"Yes","No",19
+422,"Mombasa (County)","Male","Separated",4,38,"Silver",500000,"Subacute",20/12/14 05:16,"No","No",16
+423,"Vihiga","Male","Married",0,45,"Gold",500000,"Acute",23/08/01 02:26,"Yes","No",18
+424,"Trans-Nzoia","Male","Single",0,41,"Silver",500000,"Acute",08/05/07 14:49,"No","No",7
+425,"Embu","Male","Widowed",2,47,"Gold",500000,"Congenital",17/11/18 21:20,"Yes","Yes",20
+426,"Kwale","Male","Single",2,60,"Bronze",300000,"Chronic",29/11/10 02:01,"Yes","No",16
+427,"Kwale","Female","Separated",2,54,"Gold",1000000,"Chronic",13/11/14 18:26,"No","No",14
+428,"Meru","Female","Widowed",1,65,"Silver",1000000,"Congenital",27/12/15 19:13,"Yes","No",4
+429,"Kisii","Male","Separated",4,62,"Bronze",300000,"Subacute",21/03/09 01:14,"Yes","Yes",19
+430,"Homa Bay","Female","Separated",5,32,"Bronze",300000,"Subacute",16/09/11 06:01,"Yes","No",20
+431,"Vihiga","Male","Single",3,59,"Bronze",500000,"Subacute",04/10/18 18:35,"Yes","No",1
+432,"Embu","Male","Separated",1,57,"Silver",300000,"Acute",09/04/19 09:24,"Yes","No",19
+433,"Murang'a","Male","Single",5,37,"Silver",300000,"Congenital",31/05/15 07:53,"Yes","No",18
+434,"Embu","Male","Married",2,61,"Bronze",1000000,"Acute",14/09/12 10:30,"No","No",3
+435,"Elgeyo-Marakwet","Male","Married",3,32,"Bronze",300000,"Acute",20/02/21 12:48,"No","Yes",13
+436,"Embu","Female","Married",0,61,"Gold",500000,"Congenital",12/01/14 03:05,"Yes","No",6
+437,"Turkana","Female","Married",1,62,"Silver",300000,"Subacute",02/09/05 21:37,"No","No",21
+438,"Kisii","Male","Separated",0,65,"Bronze",500000,"Subacute",28/10/19 06:16,"No","Yes",2
+439,"Nandi","Male","Married",3,35,"Silver",500000,"Subacute",27/10/18 02:54,"No","Yes",9
+440,"Meru","Male","Separated",3,69,"Bronze",300000,"Acute",17/08/14 04:19,"Yes","No",12
+441,"Busia","Female","Separated",1,39,"Silver",300000,"Acute",25/08/22 18:28,"Yes","No",4
+442,"Vihiga","Female","Separated",2,50,"Bronze",1000000,"Acute",12/01/01 20:39,"Yes","Yes",14
+443,"Kericho","Female","Married",1,63,"Gold",300000,"Congenital",10/05/17 00:53,"No","No",3
+444,"Machakos","Male","Widowed",2,57,"Bronze",300000,"Subacute",31/12/12 01:49,"No","No",17
+445,"Marsabit","Male","Separated",5,40,"Gold",1000000,"Subacute",09/06/08 05:53,"Yes","No",19
+446,"Trans-Nzoia","Male","Separated",0,68,"Gold",300000,"Congenital",23/01/04 07:20,"Yes","No",9
+447,"Kwale","Female","Separated",3,69,"Bronze",300000,"Subacute",14/04/19 15:44,"Yes","No",6
+448,"Kericho","Female","Married",1,36,"Bronze",1000000,"Acute",02/09/09 15:44,"No","Yes",17
+449,"Laikipia","Male","Single",4,52,"Silver",300000,"Chronic",10/03/04 04:24,"No","No",15
+450,"Turkana","Female","Separated",5,52,"Silver",500000,"Acute",15/09/18 23:58,"No","No",12
+451,"Kericho","Male","Single",3,39,"Bronze",300000,"Congenital",05/07/08 14:51,"No","No",9
+452,"Turkana","Male","Separated",4,48,"Bronze",500000,"Subacute",24/01/19 08:46,"No","No",6
+453,"Kiambu","Male","Separated",0,57,"Gold",300000,"Congenital",14/11/21 09:07,"Yes","No",19
+454,"Baringo","Male","Married",2,55,"Gold",500000,"Subacute",21/03/16 20:55,"Yes","No",12
+455,"Embu","Female","Separated",0,67,"Silver",1000000,"Chronic",22/11/13 05:59,"Yes","No",6
+456,"Kilifi","Male","Single",0,51,"Gold",300000,"Acute",08/02/10 10:24,"No","No",19
+457,"Kisii","Female","Separated",1,65,"Silver",500000,"Subacute",19/10/16 19:01,"Yes","No",21
+458,"Laikipia","Female","Separated",1,51,"Bronze",500000,"Subacute",09/12/18 06:33,"Yes","No",1
+459,"Mombasa (County)","Male","Separated",2,49,"Bronze",1000000,"Subacute",03/03/05 23:37,"Yes","No",6
+460,"Homa Bay","Male","Married",1,57,"Gold",1000000,"Acute",13/12/11 12:49,"No","No",13
+461,"Embu","Female","Widowed",0,34,"Bronze",300000,"Subacute",22/12/15 21:55,"No","No",21
+462,"Kiambu","Female","Single",3,34,"Silver",300000,"Subacute",10/12/13 07:41,"Yes","No",20
+463,"Machakos","Female","Separated",1,42,"Silver",300000,"Chronic",28/08/10 21:08,"No","No",16
+464,"Kajiado","Female","Widowed",5,70,"Gold",300000,"Chronic",03/11/14 06:21,"No","No",15
+465,"Turkana","Female","Married",5,43,"Silver",300000,"Acute",07/11/19 16:31,"No","Yes",3
+466,"Embu","Male","Married",5,36,"Silver",500000,"Subacute",14/10/02 14:03,"No","No",11
+467,"Mandera","Female","Separated",2,39,"Gold",1000000,"Chronic",11/07/07 23:39,"Yes","No",17
+468,"Laikipia","Male","Separated",1,37,"Bronze",300000,"Chronic",10/04/11 05:44,"No","No",17
+469,"Uasin Gishu","Male","Married",2,48,"Silver",300000,"Chronic",23/09/17 13:16,"No","Yes",19
+470,"Kwale","Female","Single",3,38,"Gold",300000,"Chronic",23/02/10 09:28,"No","No",13
+471,"Turkana","Female","Separated",2,38,"Bronze",300000,"Chronic",15/03/11 03:26,"No","No",13
+472,"Kisii","Male","Single",4,51,"Gold",1000000,"Chronic",29/03/20 07:08,"No","No",17
+473,"Isiolo","Female","Single",4,36,"Bronze",500000,"Chronic",28/05/16 14:45,"Yes","No",20
+474,"Murang'a","Female","Separated",4,42,"Bronze",300000,"Chronic",09/07/07 03:30,"No","No",19
+475,"Narok","Female","Separated",5,69,"Silver",500000,"Chronic",11/10/05 15:19,"No","No",5
+476,"Busia","Female","Separated",4,57,"Gold",1000000,"Chronic",05/11/03 22:15,"No","No",17
+477,"Kisii","Female","Widowed",1,39,"Silver",300000,"Subacute",21/08/22 02:40,"No","No",14
+478,"Embu","Female","Single",0,65,"Gold",300000,"Acute",25/01/19 03:00,"No","Yes",18
+479,"Turkana","Female","Separated",0,54,"Silver",500000,"Congenital",27/04/18 12:19,"No","Yes",9
+480,"Kisii","Male","Single",2,40,"Bronze",300000,"Subacute",12/01/00 05:03,"Yes","Yes",17
+481,"Turkana","Female","Married",2,42,"Bronze",300000,"Congenital",28/09/21 02:43,"Yes","No",8
+482,"Mombasa (County)","Male","Single",0,74,"Bronze",500000,"Subacute",09/02/05 04:24,"No","No",5
+483,"Mombasa (County)","Male","Married",4,68,"Bronze",500000,"Acute",12/09/20 19:04,"No","No",1
+484,"Migori","Male","Single",2,52,"Silver",300000,"Chronic",06/10/13 23:27,"No","Yes",11
+485,"Kiambu","Male","Separated",0,68,"Bronze",500000,"Acute",15/11/02 03:36,"No","No",14
+486,"Kajiado","Male","Separated",2,35,"Bronze",300000,"Congenital",18/12/21 03:45,"No","No",17
+487,"Kisii","Female","Separated",5,56,"Gold",500000,"Chronic",14/04/02 07:07,"No","No",4
+488,"Machakos","Male","Separated",2,50,"Bronze",500000,"Congenital",26/06/03 16:04,"Yes","No",14
+489,"Kericho","Male","Widowed",2,58,"Silver",300000,"Congenital",17/09/11 01:46,"Yes","No",19
+490,"Wajir","Female","Widowed",5,44,"Silver",300000,"Congenital",13/02/12 21:54,"No","No",21
+491,"Uasin Gishu","Female","Separated",5,73,"Bronze",300000,"Congenital",02/03/17 04:50,"Yes","No",2
+492,"Mombasa (County)","Female","Separated",5,37,"Bronze",500000,"Subacute",19/05/06 09:23,"No","No",8
+493,"Kilifi","Female","Single",0,30,"Bronze",300000,"Acute",20/04/10 15:54,"Yes","No",4
+494,"Homa Bay","Male","Married",5,52,"Silver",500000,"Subacute",30/12/13 00:33,"No","Yes",16
+495,"Machakos","Male","Married",1,48,"Bronze",1000000,"Acute",31/05/12 22:40,"Yes","No",7
+496,"Embu","Female","Separated",0,59,"Bronze",300000,"Acute",25/01/14 08:33,"No","No",15
+497,"Embu","Female","Single",3,68,"Gold",1000000,"Subacute",07/09/12 00:52,"Yes","Yes",1
+498,"Meru","Female","Widowed",0,44,"Bronze",1000000,"Subacute",25/02/19 13:47,"Yes","Yes",20
+499,"Meru","Male","Single",0,65,"Bronze",500000,"Chronic",06/11/08 01:54,"No","No",5
+500,"Marsabit","Male","Separated",3,61,"Bronze",300000,"Congenital",12/02/18 10:03,"No","No",6
+501,"Embu","Male","Separated",3,57,"Bronze",300000,"Congenital",24/04/04 02:17,"Yes","No",9
+502,"Embu","Male","Single",0,66,"Gold",500000,"Congenital",17/07/01 03:35,"No","Yes",10
+503,"Kiambu","Male","Single",1,39,"Silver",300000,"Chronic",30/09/20 10:52,"No","No",2
+504,"Baringo","Female","Single",5,35,"Bronze",500000,"Subacute",27/10/20 06:10,"Yes","No",13
+505,"Laikipia","Female","Separated",4,38,"Silver",1000000,"Subacute",07/08/06 03:37,"Yes","No",4
+506,"Meru","Male","Married",3,39,"Gold",300000,"Chronic",15/06/22 10:50,"No","No",7
+507,"Kisii","Female","Separated",1,67,"Bronze",500000,"Subacute",30/10/08 07:39,"No","No",18
+508,"Murang'a","Male","Single",3,53,"Bronze",300000,"Chronic",10/06/02 10:19,"Yes","No",6
+509,"Migori","Female","Married",5,62,"Bronze",500000,"Congenital",15/11/20 12:15,"No","No",13
+510,"Meru","Male","Widowed",2,73,"Bronze",1000000,"Congenital",15/04/06 05:27,"Yes","No",15
+511,"West Pokot","Male","Separated",3,32,"Gold",500000,"Subacute",16/06/02 19:07,"No","No",21
+512,"Migori","Female","Single",5,36,"Bronze",500000,"Subacute",25/11/12 05:15,"No","No",19
+513,"Kajiado","Female","Single",3,74,"Bronze",1000000,"Acute",29/12/16 08:41,"Yes","No",9
+514,"Migori","Male","Married",5,51,"Bronze",500000,"Subacute",25/06/04 15:18,"Yes","No",21
+515,"Embu","Female","Single",3,42,"Silver",500000,"Subacute",31/12/13 00:07,"Yes","No",8
+516,"Garissa","Female","Widowed",5,72,"Bronze",1000000,"Chronic",26/04/14 19:58,"No","Yes",15
+517,"Tharaka-Nithi","Male","Single",5,62,"Bronze",1000000,"Acute",06/08/08 14:14,"No","No",1
+518,"Baringo","Male","Single",4,39,"Bronze",300000,"Subacute",16/09/01 20:05,"No","No",17
+519,"Migori","Female","Separated",4,66,"Bronze",300000,"Chronic",18/03/12 23:58,"Yes","No",3
+520,"Kiambu","Female","Widowed",5,55,"Silver",500000,"Subacute",24/08/08 08:58,"No","No",9
+521,"Kwale","Female","Married",3,38,"Gold",300000,"Chronic",06/09/04 11:51,"No","No",17
+522,"Kitui","Female","Married",5,71,"Bronze",300000,"Congenital",06/05/05 19:04,"No","Yes",3
+523,"Mombasa (County)","Female","Separated",3,63,"Silver",300000,"Chronic",28/06/14 14:22,"Yes","No",2
+524,"Samburu","Female","Single",5,31,"Silver",300000,"Congenital",03/04/11 14:46,"Yes","Yes",17
+525,"Nandi","Male","Married",3,64,"Silver",300000,"Chronic",20/08/05 00:21,"Yes","Yes",3
+526,"Turkana","Female","Separated",1,36,"Bronze",300000,"Chronic",27/06/14 01:52,"Yes","No",9
+527,"Turkana","Female","Separated",4,52,"Silver",300000,"Subacute",21/05/06 23:42,"No","No",20
+528,"Kakamega","Male","Separated",1,70,"Gold",300000,"Chronic",26/07/09 11:02,"No","No",9
+529,"Elgeyo-Marakwet","Female","Married",0,63,"Bronze",500000,"Chronic",28/11/15 13:51,"No","Yes",10
+530,"Trans-Nzoia","Female","Single",5,58,"Bronze",500000,"Chronic",09/10/13 06:57,"Yes","No",4
+531,"Meru","Male","Separated",0,51,"Gold",300000,"Acute",15/10/10 20:44,"No","No",15
+532,"Nyeri","Male","Separated",2,46,"Bronze",300000,"Subacute",03/01/12 03:58,"No","No",11
+533,"Tharaka-Nithi","Female","Single",0,69,"Gold",1000000,"Congenital",06/10/19 00:21,"No","No",8
+534,"Kisumu","Female","Separated",3,34,"Bronze",300000,"Congenital",10/12/10 11:14,"Yes","No",4
+535,"Meru","Male","Widowed",1,60,"Gold",1000000,"Acute",09/02/16 13:08,"No","No",17
+536,"Vihiga","Male","Single",4,73,"Bronze",500000,"Subacute",17/02/02 06:32,"No","No",15
+537,"Meru","Female","Widowed",1,70,"Gold",300000,"Acute",30/01/00 06:34,"Yes","Yes",13
+538,"Baringo","Male","Widowed",3,33,"Bronze",300000,"Subacute",04/07/09 14:27,"No","No",19
+539,"Trans-Nzoia","Male","Widowed",2,30,"Silver",500000,"Chronic",26/03/06 16:41,"Yes","Yes",19
+540,"Migori","Female","Separated",5,44,"Bronze",1000000,"Congenital",03/09/06 20:05,"No","Yes",18
+541,"Nandi","Female","Separated",2,42,"Bronze",1000000,"Subacute",16/08/09 03:53,"Yes","No",11
+542,"Nyeri","Female","Single",1,58,"Gold",300000,"Congenital",21/06/09 21:59,"Yes","No",2
+543,"Turkana","Male","Separated",4,61,"Silver",300000,"Chronic",17/05/08 15:06,"Yes","No",14
+544,"Samburu","Male","Married",3,45,"Bronze",1000000,"Congenital",25/12/07 10:37,"No","No",13
+545,"Narok","Male","Married",5,43,"Bronze",300000,"Subacute",12/11/13 18:58,"No","Yes",16
+546,"Makueni","Male","Married",3,42,"Gold",300000,"Congenital",30/04/16 13:53,"No","No",15
+547,"Vihiga","Female","Married",2,70,"Silver",300000,"Congenital",29/07/17 20:36,"No","No",17
+548,"West Pokot","Female","Single",3,59,"Silver",500000,"Congenital",27/04/02 16:00,"No","Yes",12
+549,"Kisumu","Male","Separated",1,41,"Bronze",500000,"Congenital",02/01/18 18:38,"No","No",20
+550,"Migori","Female","Separated",0,51,"Bronze",300000,"Chronic",10/11/11 22:08,"Yes","No",13
+551,"Garissa","Male","Married",1,62,"Bronze",1000000,"Subacute",01/04/17 22:24,"No","No",10
+552,"Embu","Male","Separated",3,41,"Bronze",1000000,"Chronic",08/04/09 16:53,"No","No",13
+553,"Migori","Male","Married",4,55,"Bronze",1000000,"Congenital",12/08/16 13:28,"No","No",8
+554,"Turkana","Male","Single",2,33,"Bronze",300000,"Chronic",03/01/06 06:11,"Yes","No",6
+555,"Turkana","Female","Married",5,71,"Gold",300000,"Acute",28/03/08 11:35,"No","No",11
+556,"West Pokot","Female","Single",4,64,"Bronze",300000,"Subacute",06/02/13 10:08,"Yes","No",20
+557,"Isiolo","Female","Separated",2,31,"Bronze",1000000,"Acute",17/05/04 13:24,"Yes","No",10
+558,"Meru","Male","Separated",0,70,"Bronze",300000,"Congenital",21/08/05 13:14,"Yes","No",13
+559,"Embu","Male","Separated",3,34,"Bronze",300000,"Acute",20/02/09 23:50,"Yes","No",10
+560,"Narok","Male","Single",0,67,"Silver",300000,"Acute",14/12/03 00:11,"No","No",4
+561,"Kitui","Male","Separated",1,62,"Silver",1000000,"Acute",07/10/17 06:02,"No","No",9
+562,"Mandera","Female","Single",4,49,"Bronze",300000,"Subacute",06/09/16 13:42,"Yes","No",10
+563,"Turkana","Female","Married",4,46,"Bronze",500000,"Acute",01/04/11 14:58,"Yes","No",7
+564,"Kericho","Male","Separated",2,55,"Bronze",300000,"Chronic",27/08/18 18:58,"Yes","No",8
+565,"Kiambu","Male","Widowed",0,72,"Bronze",500000,"Congenital",27/01/07 06:52,"No","No",15
+566,"West Pokot","Female","Married",3,54,"Bronze",300000,"Subacute",20/06/07 12:30,"No","No",6
+567,"Machakos","Female","Separated",1,56,"Bronze",500000,"Acute",01/04/09 03:34,"No","No",15
+568,"Vihiga","Male","Married",1,62,"Bronze",1000000,"Congenital",22/10/07 03:34,"Yes","No",4
+569,"Kisii","Female","Separated",0,58,"Bronze",500000,"Congenital",21/03/04 16:30,"Yes","No",7
+570,"Trans-Nzoia","Female","Married",5,56,"Bronze",300000,"Chronic",23/10/02 18:52,"No","Yes",20
+571,"Embu","Male","Single",1,32,"Silver",500000,"Chronic",17/11/18 23:52,"No","Yes",4
+572,"Siaya","Female","Separated",3,52,"Gold",1000000,"Acute",07/02/11 06:50,"No","Yes",1
+573,"Makueni","Male","Separated",1,42,"Gold",500000,"Acute",16/07/08 10:49,"No","No",19
+574,"Uasin Gishu","Male","Married",5,56,"Bronze",300000,"Chronic",20/07/15 04:27,"Yes","No",9
+575,"Laikipia","Male","Separated",1,66,"Silver",1000000,"Chronic",04/02/19 04:06,"Yes","No",6
+576,"Nandi","Male","Single",2,63,"Gold",1000000,"Subacute",08/03/17 19:56,"Yes","No",15
+577,"Kisii","Female","Widowed",3,48,"Bronze",500000,"Acute",12/08/19 22:02,"No","No",13
+578,"Wajir","Female","Separated",0,39,"Bronze",300000,"Congenital",02/02/15 12:28,"Yes","No",12
+579,"Machakos","Male","Separated",3,30,"Gold",500000,"Chronic",31/12/09 07:11,"No","Yes",18
+580,"West Pokot","Male","Single",1,49,"Silver",300000,"Subacute",27/07/00 04:44,"No","Yes",21
+581,"Samburu","Female","Widowed",4,64,"Bronze",300000,"Congenital",11/11/11 14:19,"Yes","No",2
+582,"Trans-Nzoia","Female","Separated",5,74,"Silver",500000,"Subacute",27/06/14 05:34,"No","No",17
+583,"Turkana","Female","Widowed",1,46,"Silver",300000,"Subacute",30/12/02 06:33,"No","Yes",21
+584,"Turkana","Male","Widowed",4,47,"Gold",1000000,"Subacute",15/09/19 04:18,"No","No",5
+585,"Kitui","Male","Separated",3,57,"Bronze",300000,"Subacute",22/04/18 00:35,"No","Yes",2
+586,"Busia","Male","Widowed",0,57,"Bronze",500000,"Subacute",16/04/15 23:01,"No","No",7
+587,"Makueni","Male","Single",2,36,"Silver",300000,"Congenital",27/07/14 04:09,"No","No",13
+588,"Wajir","Female","Separated",1,65,"Bronze",1000000,"Subacute",25/12/07 03:55,"Yes","No",21
+589,"Turkana","Male","Separated",4,51,"Gold",500000,"Subacute",27/10/12 20:38,"No","No",2
+590,"Migori","Female","Married",0,40,"Bronze",300000,"Acute",09/07/11 22:51,"Yes","No",12
+591,"Migori","Female","Single",1,64,"Bronze",500000,"Acute",29/03/13 05:58,"Yes","No",14
+592,"Kisumu","Female","Single",2,62,"Silver",500000,"Congenital",03/03/20 11:55,"Yes","Yes",14
+593,"Turkana","Female","Widowed",5,41,"Bronze",300000,"Acute",16/11/07 01:58,"No","No",18
+594,"Kericho","Male","Married",4,53,"Silver",300000,"Congenital",11/10/19 23:13,"No","No",16
+595,"Marsabit","Female","Widowed",4,36,"Silver",500000,"Acute",29/07/01 16:01,"No","No",21
+596,"Marsabit","Male","Separated",3,60,"Bronze",300000,"Subacute",13/07/20 13:28,"Yes","No",2
+597,"Migori","Female","Separated",4,55,"Bronze",300000,"Chronic",26/02/20 16:46,"No","No",5
+598,"Elgeyo-Marakwet","Female","Single",0,47,"Silver",1000000,"Subacute",26/11/04 15:05,"No","No",18
+599,"Makueni","Male","Widowed",5,51,"Bronze",300000,"Acute",19/05/19 22:01,"No","No",17
+600,"West Pokot","Male","Single",3,50,"Bronze",300000,"Congenital",06/12/19 14:03,"No","No",12
+601,"Mombasa (County)","Female","Separated",3,71,"Silver",300000,"Congenital",20/12/16 05:57,"No","No",8
+602,"Migori","Male","Separated",0,56,"Gold",300000,"Congenital",25/04/20 11:08,"No","Yes",21
+603,"Turkana","Male","Married",0,36,"Gold",300000,"Congenital",21/01/08 15:16,"Yes","No",2
+604,"Nandi","Male","Separated",4,65,"Silver",500000,"Chronic",15/11/04 00:20,"No","No",12
+605,"Elgeyo-Marakwet","Female","Separated",4,31,"Gold",1000000,"Congenital",23/07/13 22:21,"Yes","No",16
+606,"Turkana","Male","Separated",3,32,"Gold",1000000,"Chronic",26/01/18 13:07,"No","No",16
+607,"Kisii","Female","Single",2,40,"Bronze",300000,"Subacute",23/11/18 23:41,"No","No",10
+608,"Trans-Nzoia","Female","Married",0,57,"Gold",1000000,"Chronic",08/11/07 10:17,"No","No",13
+609,"Migori","Male","Separated",0,49,"Silver",500000,"Chronic",12/09/00 03:08,"Yes","Yes",16
+610,"Kwale","Male","Widowed",5,53,"Gold",300000,"Congenital",09/04/05 13:27,"No","No",4
+611,"Uasin Gishu","Male","Separated",4,65,"Silver",300000,"Acute",27/09/03 11:13,"No","No",17
+612,"Migori","Female","Single",3,62,"Silver",300000,"Subacute",03/12/17 16:53,"No","No",13
+613,"Embu","Male","Separated",4,64,"Bronze",300000,"Acute",26/12/06 22:33,"No","No",2
+614,"Vihiga","Male","Separated",3,35,"Gold",500000,"Acute",13/05/19 10:47,"Yes","Yes",8
+615,"Elgeyo-Marakwet","Male","Separated",3,44,"Bronze",300000,"Chronic",08/06/08 07:38,"No","No",3
+616,"Kisii","Male","Single",0,71,"Bronze",500000,"Chronic",04/08/09 13:22,"No","Yes",12
+617,"Samburu","Male","Married",3,57,"Bronze",300000,"Chronic",18/05/12 10:55,"No","No",13
+618,"Isiolo","Female","Separated",3,65,"Bronze",300000,"Congenital",10/07/00 04:02,"No","No",20
+619,"Vihiga","Male","Separated",2,60,"Bronze",300000,"Chronic",05/09/03 17:25,"No","No",16
+620,"Murang'a","Female","Registered Partnership",2,56,"Bronze",1000000,"Congenital",18/04/22 22:30,"No","No",5
+621,"West Pokot","Male","Separated",0,39,"Bronze",1000000,"Subacute",05/08/07 20:13,"No","No",1
+622,"Migori","Male","Widowed",3,50,"Silver",500000,"Congenital",20/10/12 00:56,"Yes","Yes",7
+623,"Kitui","Female","Separated",3,50,"Gold",500000,"Chronic",15/09/08 10:39,"Yes","Yes",13
+624,"West Pokot","Female","Widowed",1,48,"Silver",300000,"Congenital",08/07/01 10:13,"No","Yes",13
+625,"Wajir","Female","Separated",1,38,"Bronze",500000,"Congenital",08/02/17 12:41,"No","No",10
+626,"Kilifi","Female","Separated",2,61,"Silver",1000000,"Subacute",22/06/06 22:37,"Yes","No",16
+627,"Migori","Male","Widowed",2,39,"Bronze",500000,"Subacute",28/12/01 11:44,"Yes","Yes",7
+628,"Machakos","Male","Separated",3,41,"Silver",300000,"Chronic",04/07/18 01:06,"No","No",7
+629,"Busia","Male","Married",4,45,"Gold",300000,"Congenital",09/04/11 19:36,"No","No",15
+630,"Migori","Female","Single",0,69,"Bronze",300000,"Chronic",25/01/17 04:32,"Yes","No",11
+631,"Kericho","Female","Married",3,30,"Bronze",300000,"Subacute",15/06/00 14:31,"No","No",6
+632,"Narok","Male","Single",4,46,"Gold",300000,"Congenital",12/06/20 01:08,"Yes","No",18
+633,"Turkana","Female","Separated",4,60,"Silver",300000,"Acute",15/10/15 04:37,"Yes","No",19
+634,"Kisii","Male","Married",2,43,"Bronze",300000,"Acute",25/03/20 23:00,"No","Yes",9
+635,"Meru","Male","Widowed",0,54,"Bronze",300000,"Acute",09/03/02 06:50,"Yes","Yes",17
+636,"Elgeyo-Marakwet","Male","Widowed",3,36,"Bronze",1000000,"Subacute",15/12/10 03:48,"Yes","No",6
+637,"Wajir","Male","Separated",5,60,"Silver",500000,"Acute",10/12/05 14:01,"No","No",18
+638,"Homa Bay","Female","Single",4,44,"Bronze",300000,"Acute",17/09/15 07:28,"Yes","No",9
+639,"Migori","Male","Single",4,32,"Silver",300000,"Subacute",11/11/06 20:29,"Yes","No",14
+640,"Machakos","Female","Single",0,72,"Gold",500000,"Subacute",17/06/21 16:13,"No","No",16
+641,"Nandi","Male","Separated",1,41,"Bronze",1000000,"Subacute",27/12/20 18:43,"No","No",20
+642,"Mombasa (County)","Female","Separated",0,72,"Bronze",300000,"Acute",15/06/14 17:25,"No","Yes",17
+643,"Migori","Female","Separated",2,33,"Silver",300000,"Chronic",15/11/02 23:45,"Yes","No",11
+644,"Busia","Female","Single",4,63,"Silver",300000,"Acute",28/09/06 21:57,"No","No",18
+645,"Turkana","Male","Single",0,46,"Bronze",500000,"Acute",01/06/11 17:04,"No","No",11
+646,"Vihiga","Male","Separated",2,41,"Silver",500000,"Congenital",17/05/11 04:16,"No","Yes",8
+647,"Meru","Female","Single",0,43,"Bronze",300000,"Subacute",16/07/10 15:07,"No","No",15
+648,"Kericho","Male","Separated",3,66,"Bronze",300000,"Congenital",02/12/18 13:48,"No","No",7
+649,"Kisumu","Female","Separated",1,74,"Bronze",1000000,"Congenital",17/04/08 12:25,"Yes","No",4
+650,"Kakamega","Female","Separated",5,50,"Bronze",300000,"Congenital",01/07/16 19:48,"Yes","Yes",11
+651,"Kisumu","Male","Separated",1,70,"Bronze",500000,"Acute",22/01/12 12:22,"No","No",3
+652,"West Pokot","Female","Widowed",0,61,"Silver",1000000,"Acute",18/03/16 19:28,"Yes","Yes",8
+653,"Meru","Male","Separated",0,43,"Silver",500000,"Acute",12/01/04 02:33,"Yes","Yes",17
+654,"Busia","Male","Married",2,61,"Gold",500000,"Chronic",14/06/17 23:46,"No","No",20
+655,"Meru","Female","Separated",5,65,"Silver",500000,"Subacute",12/11/07 16:47,"Yes","No",5
+656,"Busia","Female","Separated",5,64,"Silver",500000,"Acute",02/04/10 17:40,"No","No",2
+657,"Machakos","Female","Single",5,35,"Bronze",500000,"Chronic",07/10/18 02:07,"Yes","No",16
+658,"Turkana","Female","Separated",1,36,"Silver",300000,"Acute",18/10/21 01:45,"Yes","Yes",7
+659,"Migori","Male","Widowed",1,62,"Bronze",1000000,"Acute",06/04/19 15:06,"No","No",5
+660,"Bomet","Female","Single",0,36,"Silver",300000,"Acute",13/09/03 22:39,"Yes","No",7
+661,"Kisii","Female","Separated",2,55,"Bronze",1000000,"Subacute",15/09/08 15:41,"Yes","No",16
+662,"Makueni","Male","Single",0,36,"Bronze",300000,"Acute",11/05/17 12:39,"No","No",7
+663,"Siaya","Female","Single",3,30,"Gold",500000,"Chronic",21/12/00 14:11,"No","No",18
+664,"Migori","Male","Single",0,60,"Silver",1000000,"Chronic",25/08/04 01:46,"No","No",21
+665,"West Pokot","Female","Single",2,39,"Silver",300000,"Subacute",26/05/16 23:57,"No","Yes",10
+666,"Turkana","Female","Widowed",0,43,"Bronze",500000,"Congenital",30/05/11 13:30,"No","Yes",18
+667,"Meru","Female","Separated",0,61,"Bronze",300000,"Acute",04/10/07 11:30,"Yes","No",15
+668,"Kisumu","Male","Single",3,62,"Bronze",300000,"Acute",02/12/17 00:56,"Yes","No",1
+669,"Uasin Gishu","Female","Separated",5,60,"Gold",500000,"Subacute",04/09/12 20:41,"Yes","No",6
+670,"Kericho","Male","Single",3,72,"Bronze",300000,"Congenital",20/11/13 07:25,"Yes","No",1
+671,"Vihiga","Female","Single",1,43,"Bronze",300000,"Acute",21/12/06 19:23,"Yes","No",15
+672,"Migori","Female","Separated",4,40,"Bronze",300000,"Subacute",04/07/00 13:01,"No","No",17
+673,"Mandera","Male","Separated",5,53,"Bronze",1000000,"Acute",20/04/02 10:59,"No","No",1
+674,"Migori","Female","Widowed",2,39,"Bronze",300000,"Acute",05/11/07 16:57,"Yes","No",4
+675,"Machakos","Female","Married",2,67,"Bronze",1000000,"Congenital",19/12/12 15:09,"No","No",12
+676,"Laikipia","Male","Married",5,69,"Bronze",500000,"Chronic",24/06/20 03:41,"No","No",7
+677,"Isiolo","Female","Married",4,60,"Bronze",1000000,"Acute",13/09/14 11:36,"No","Yes",13
+678,"Migori","Female","Separated",0,44,"Silver",500000,"Acute",27/06/11 11:49,"No","No",14
+679,"Turkana","Male","Widowed",0,47,"Silver",300000,"Subacute",24/10/19 17:44,"No","No",15
+680,"Turkana","Female","Separated",5,73,"Bronze",1000000,"Subacute",26/08/10 11:33,"No","No",18
+681,"Embu","Male","Widowed",2,51,"Bronze",500000,"Subacute",05/04/18 06:05,"Yes","No",5
+682,"Kisii","Male","Single",1,44,"Gold",500000,"Congenital",24/02/04 13:20,"Yes","No",19
+683,"Tharaka-Nithi","Male","Married",3,40,"Bronze",300000,"Subacute",13/04/07 14:17,"No","No",10
+684,"Garissa","Male","Separated",1,51,"Silver",300000,"Acute",18/07/17 22:17,"No","No",15
+685,"Migori","Female","Single",5,33,"Silver",300000,"Acute",04/05/08 22:16,"No","Yes",3
+686,"Lamu","Female","Separated",0,66,"Silver",500000,"Acute",06/12/18 22:13,"Yes","Yes",19
+687,"Kisii","Male","Widowed",3,51,"Bronze",300000,"Congenital",04/07/01 11:55,"No","Yes",17
+688,"Migori","Male","Separated",3,72,"Silver",500000,"Chronic",08/12/08 13:24,"Yes","No",9
+689,"Narok","Female","Widowed",2,31,"Gold",300000,"Congenital",30/12/00 08:33,"No","No",10
+690,"Turkana","Female","Married",1,54,"Gold",1000000,"Congenital",16/12/07 22:04,"Yes","No",8
+691,"Migori","Female","Separated",1,54,"Silver",1000000,"Acute",30/09/06 17:56,"Yes","Yes",9
+692,"Homa Bay","Male","Separated",0,32,"Silver",1000000,"Chronic",18/12/12 02:55,"Yes","No",2
+693,"Mombasa (County)","Male","Separated",3,30,"Bronze",300000,"Congenital",13/08/13 03:29,"Yes","No",19
+694,"Narok","Female","Widowed",0,62,"Silver",300000,"Subacute",30/09/10 18:48,"No","Yes",7
+695,"Kiambu","Male","Separated",3,65,"Silver",500000,"Acute",19/11/19 08:57,"No","No",8
+696,"Makueni","Female","Separated",4,60,"Gold",300000,"Acute",02/04/20 07:28,"No","Yes",16
+697,"Turkana","Male","Separated",3,39,"Silver",1000000,"Acute",01/04/04 05:47,"Yes","No",11
+698,"Kwale","Female","Separated",0,35,"Silver",1000000,"Subacute",13/01/09 15:16,"Yes","No",3
+699,"Samburu","Male","Married",0,38,"Bronze",1000000,"Chronic",09/02/15 08:12,"Yes","No",3
+700,"Kitui","Female","Separated",0,69,"Gold",300000,"Acute",07/08/21 17:19,"Yes","No",17
+701,"Migori","Female","Widowed",1,72,"Gold",300000,"Acute",12/07/01 08:00,"No","No",3
+702,"Kisii","Male","Separated",4,48,"Bronze",300000,"Acute",25/10/01 18:43,"No","Yes",19
+703,"Kiambu","Female","Widowed",3,72,"Gold",300000,"Acute",05/11/10 18:35,"No","No",6
+704,"Vihiga","Female","Separated",4,58,"Gold",500000,"Congenital",29/11/18 01:48,"Yes","No",9
+705,"Kakamega","Female","Separated",1,34,"Silver",300000,"Chronic",22/05/11 01:11,"No","No",4
+706,"Turkana","Female","Single",4,63,"Gold",500000,"Chronic",21/07/18 02:54,"No","No",15
+707,"Isiolo","Male","Married",3,60,"Bronze",1000000,"Subacute",24/09/13 22:37,"No","Yes",4
+708,"Machakos","Female","Single",4,43,"Bronze",300000,"Congenital",29/01/18 09:57,"No","No",2
+709,"West Pokot","Male","Separated",3,67,"Bronze",300000,"Chronic",24/12/14 00:44,"Yes","No",20
+710,"Homa Bay","Female","Married",4,58,"Gold",500000,"Chronic",04/04/17 12:07,"No","No",10
+711,"Busia","Male","Married",2,56,"Bronze",300000,"Chronic",22/12/18 07:02,"No","No",5
+712,"Nandi","Female","Separated",3,73,"Silver",300000,"Subacute",05/11/08 08:12,"Yes","No",3
+713,"Turkana","Female","Single",3,32,"Bronze",1000000,"Acute",15/06/20 04:19,"Yes","No",3
+714,"Kiambu","Male","Separated",0,65,"Gold",300000,"Acute",28/06/15 06:11,"No","Yes",8
+715,"Nyeri","Male","Widowed",0,56,"Silver",1000000,"Congenital",05/08/22 15:45,"Yes","No",14
+716,"Vihiga","Male","Separated",5,57,"Bronze",300000,"Acute",15/09/00 12:16,"No","No",8
+717,"Migori","Female","Separated",5,59,"Silver",300000,"Acute",13/06/11 02:28,"No","No",3
+718,"Migori","Male","Married",2,58,"Gold",300000,"Congenital",23/11/00 07:45,"No","No",7
+719,"Uasin Gishu","Female","Single",1,58,"Bronze",1000000,"Subacute",14/07/03 04:44,"No","No",9
+720,"Kakamega","Male","Single",0,67,"Silver",1000000,"Acute",25/11/21 20:17,"No","Yes",17
+721,"Kisii","Male","Separated",3,50,"Bronze",300000,"Congenital",30/07/12 00:56,"No","No",19
+722,"Kajiado","Male","Married",0,54,"Bronze",300000,"Congenital",24/07/11 02:58,"Yes","Yes",21
+723,"Baringo","Male","Separated",1,69,"Bronze",1000000,"Acute",02/08/17 04:50,"Yes","Yes",14
+724,"Kitui","Female","Single",2,42,"Bronze",500000,"Acute",18/08/03 16:41,"Yes","Yes",4
+725,"Kwale","Female","Separated",2,31,"Bronze",500000,"Congenital",06/09/21 23:56,"No","No",17
+726,"Migori","Female","Married",4,60,"Silver",300000,"Chronic",16/02/07 06:10,"No","Yes",13
+727,"West Pokot","Female","Separated",3,45,"Bronze",300000,"Subacute",02/05/19 01:24,"No","No",4
+728,"Kiambu","Female","Separated",4,35,"Bronze",500000,"Acute",08/03/03 02:13,"Yes","No",17
+729,"Meru","Male","Widowed",2,32,"Bronze",500000,"Acute",12/10/04 03:54,"No","No",6
+730,"Kilifi","Female","Married",2,58,"Bronze",500000,"Acute",24/06/19 18:53,"No","No",13
+731,"Laikipia","Female","Married",4,48,"Silver",1000000,"Acute",27/09/04 23:05,"Yes","Yes",8
+732,"Migori","Female","Married",4,48,"Bronze",300000,"Chronic",04/10/02 02:22,"Yes","No",10
+733,"Wajir","Female","Widowed",3,71,"Bronze",500000,"Congenital",30/01/22 11:38,"Yes","No",8
+734,"Isiolo","Female","Single",0,51,"Silver",300000,"Subacute",18/03/03 04:22,"Yes","Yes",3
+735,"Narok","Male","Separated",4,35,"Bronze",500000,"Chronic",08/03/01 06:50,"Yes","No",11
+736,"Lamu","Male","Married",1,42,"Bronze",300000,"Congenital",09/01/07 14:44,"No","No",3
+737,"Migori","Male","Married",5,60,"Bronze",300000,"Subacute",26/08/22 13:43,"Yes","No",4
+738,"Kiambu","Male","Widowed",5,67,"Silver",300000,"Congenital",16/01/02 03:33,"Yes","No",1
+739,"Turkana","Male","Widowed",4,60,"Silver",300000,"Congenital",08/12/02 00:42,"No","No",3
+740,"Mombasa (County)","Female","Single",3,60,"Silver",300000,"Acute",09/05/18 07:51,"Yes","No",8
+741,"Trans-Nzoia","Female","Separated",4,34,"Silver",500000,"Congenital",23/03/10 15:45,"Yes","No",17
+742,"Migori","Female","Widowed",4,52,"Bronze",500000,"Congenital",27/03/19 20:22,"Yes","Yes",7
+743,"Uasin Gishu","Male","Widowed",4,41,"Silver",300000,"Chronic",15/11/08 07:50,"Yes","No",13
+744,"Turkana","Female","Single",4,37,"Silver",500000,"Chronic",24/03/09 01:10,"No","No",3
+745,"Uasin Gishu","Male","Separated",4,69,"Gold",300000,"Congenital",27/06/14 17:12,"No","No",9
+746,"Isiolo","Male","Separated",3,70,"Gold",1000000,"Subacute",02/05/05 01:42,"No","No",15
+747,"Kisii","Female","Single",3,56,"Silver",300000,"Chronic",09/05/13 23:00,"No","No",10
+748,"West Pokot","Female","Separated",4,35,"Bronze",300000,"Congenital",05/11/02 19:10,"No","No",15
+749,"Kiambu","Female","Separated",2,37,"Bronze",500000,"Chronic",10/09/18 11:57,"No","No",10
+750,"Migori","Female","Single",3,73,"Bronze",300000,"Congenital",28/07/16 17:33,"No","No",12
+751,"Trans-Nzoia","Female","Single",4,51,"Bronze",300000,"Acute",11/04/18 18:11,"No","Yes",19
+752,"Kisii","Female","Separated",4,64,"Bronze",500000,"Chronic",15/04/02 17:09,"Yes","Yes",21
+753,"Migori","Male","Single",0,40,"Bronze",500000,"Acute",14/10/05 01:41,"No","No",15
+754,"Vihiga","Male","Separated",5,74,"Silver",300000,"Subacute",28/02/00 13:09,"Yes","No",10
+755,"Kwale","Female","Widowed",3,47,"Gold",300000,"Acute",27/05/15 10:30,"No","Yes",15
+756,"Vihiga","Male","Married",0,47,"Silver",500000,"Congenital",26/06/14 00:09,"No","No",8
+757,"Kericho","Female","Single",2,39,"Bronze",300000,"Congenital",13/11/17 14:26,"No","No",16
+758,"Nandi","Female","Separated",1,62,"Silver",500000,"Chronic",26/02/10 15:00,"Yes","No",9
+759,"Marsabit","Female","Single",4,42,"Silver",300000,"Subacute",06/11/04 01:43,"Yes","Yes",18
+760,"Vihiga","Male","Single",2,58,"Bronze",300000,"Chronic",14/11/17 06:06,"Yes","No",15
+761,"Bomet","Male","Separated",2,34,"Silver",300000,"Congenital",17/09/22 05:16,"No","No",6
+762,"Kiambu","Female","Separated",4,41,"Bronze",500000,"Congenital",26/10/05 16:12,"No","No",3
+763,"Nandi","Female","Married",3,53,"Bronze",300000,"Congenital",23/11/09 21:31,"No","No",8
+764,"Embu","Male","Single",5,44,"Gold",300000,"Congenital",10/08/09 11:29,"Yes","No",2
+765,"Kisii","Female","Separated",1,59,"Silver",1000000,"Congenital",21/07/01 14:29,"Yes","No",10
+766,"Kajiado","Female","Widowed",3,41,"Silver",1000000,"Subacute",08/01/21 11:35,"No","No",2
+767,"Migori","Female","Married",0,42,"Bronze",1000000,"Acute",11/03/04 00:43,"No","No",9
+768,"Narok","Female","Single",0,52,"Bronze",1000000,"Congenital",23/02/22 10:04,"Yes","No",13
+769,"Meru","Female","Married",2,67,"Bronze",1000000,"Subacute",04/02/07 04:51,"No","Yes",5
+770,"Kisii","Female","Widowed",2,42,"Silver",300000,"Acute",06/12/18 21:34,"Yes","No",13
+771,"Trans-Nzoia","Male","Separated",3,49,"Bronze",500000,"Chronic",22/07/14 05:43,"No","No",16
+772,"Kisii","Female","Widowed",3,62,"Bronze",500000,"Congenital",03/02/05 02:05,"No","Yes",6
+773,"Busia","Female","Single",1,58,"Bronze",300000,"Congenital",10/04/13 22:35,"No","No",20
+774,"Migori","Female","Separated",5,51,"Silver",300000,"Subacute",06/02/12 09:35,"Yes","No",2
+775,"Tharaka-Nithi","Male","Widowed",5,41,"Gold",1000000,"Subacute",15/05/09 22:48,"No","No",21
+776,"Meru","Female","Single",5,52,"Bronze",300000,"Congenital",30/10/04 14:35,"No","No",2
+777,"Migori","Female","Married",5,35,"Bronze",300000,"Acute",09/01/18 21:01,"Yes","No",3
+778,"Machakos","Male","Separated",2,51,"Bronze",300000,"Chronic",08/02/02 19:37,"No","No",5
+779,"Kajiado","Female","Married",0,38,"Silver",1000000,"Chronic",11/01/02 11:56,"Yes","Yes",18
+780,"Machakos","Female","Single",3,42,"Silver",500000,"Subacute",04/05/22 05:09,"Yes","No",7
+781,"Embu","Male","Widowed",2,49,"Gold",500000,"Congenital",01/04/06 08:13,"No","Yes",10
+782,"Lamu","Male","Married",5,45,"Bronze",300000,"Subacute",14/05/20 14:00,"No","No",1
+783,"Nairobi (County)","Female","Separated",1,40,"Silver",300000,"Congenital",04/07/04 06:35,"No","No",12
+784,"Embu","Female","Separated",3,68,"Bronze",500000,"Subacute",15/09/09 20:47,"Yes","No",8
+785,"Laikipia","Female","Single",2,50,"Bronze",500000,"Chronic",07/09/07 13:32,"No","No",16
+786,"Kakamega","Male","Widowed",2,50,"Silver",500000,"Congenital",04/08/08 07:59,"No","No",13
+787,"Isiolo","Male","Widowed",0,57,"Bronze",1000000,"Congenital",28/03/16 11:43,"No","Yes",6
+788,"Homa Bay","Male","Separated",4,69,"Bronze",500000,"Congenital",29/06/14 13:04,"Yes","Yes",9
+789,"Migori","Female","Separated",2,74,"Gold",1000000,"Acute",02/03/08 06:51,"No","No",18
+790,"Nandi","Male","Widowed",1,35,"Bronze",300000,"Congenital",29/10/11 06:05,"Yes","No",12
+791,"Migori","Female","Single",1,51,"Bronze",500000,"Chronic",13/01/01 18:44,"No","No",14
+792,"Laikipia","Male","Single",0,67,"Bronze",300000,"Subacute",09/08/06 21:45,"No","No",15
+793,"Kajiado","Male","Married",1,72,"Bronze",300000,"Acute",11/01/18 13:22,"No","No",11
+794,"Kiambu","Female","Widowed",5,58,"Bronze",1000000,"Acute",05/09/20 10:52,"No","No",5
+795,"Nandi","Male","Single",1,66,"Silver",1000000,"Acute",06/01/15 14:53,"Yes","No",4
+796,"West Pokot","Female","Single",0,35,"Bronze",1000000,"Congenital",24/06/01 08:02,"Yes","No",12
+797,"Marsabit","Male","Married",3,59,"Bronze",300000,"Congenital",11/10/15 23:09,"Yes","No",12
+798,"Embu","Female","Single",3,30,"Gold",300000,"Congenital",25/09/21 00:18,"Yes","Yes",11
+799,"Kwale","Male","Widowed",0,37,"Bronze",1000000,"Acute",18/01/01 01:38,"No","No",10
+800,"Uasin Gishu","Female","Separated",1,73,"Silver",1000000,"Acute",28/04/01 01:48,"No","Yes",10
+801,"Kisumu","Male","Separated",0,39,"Silver",300000,"Chronic",18/12/02 00:43,"No","No",20
+802,"Turkana","Female","Separated",2,69,"Bronze",500000,"Acute",29/04/15 08:28,"No","No",6
+803,"Mombasa (County)","Female","Single",2,36,"Bronze",1000000,"Congenital",08/08/03 03:39,"Yes","No",11
+804,"Turkana","Female","Married",0,58,"Bronze",500000,"Subacute",06/02/04 16:31,"No","No",4
+805,"Tharaka-Nithi","Female","Separated",2,53,"Silver",300000,"Congenital",14/10/03 02:26,"No","Yes",11
+806,"Kisii","Male","Separated",3,65,"Silver",500000,"Subacute",29/12/14 04:11,"No","No",13
+807,"Kisumu","Male","Widowed",2,32,"Bronze",300000,"Chronic",05/09/09 08:02,"No","No",12
+808,"Migori","Male","Registered Partnership",1,61,"Bronze",300000,"Chronic",27/01/08 00:44,"Yes","No",11
+809,"Wajir","Male","Single",3,64,"Bronze",500000,"Congenital",20/12/15 17:29,"No","No",11
+810,"Meru","Female","Single",4,67,"Bronze",300000,"Congenital",08/10/08 03:43,"No","No",4
+811,"Nakuru","Female","Widowed",2,63,"Gold",300000,"Acute",22/06/21 04:45,"No","No",14
+812,"Wajir","Male","Separated",2,45,"Silver",300000,"Chronic",14/07/18 20:46,"Yes","No",4
+813,"Nyeri","Male","Separated",4,30,"Bronze",500000,"Subacute",04/06/05 06:46,"Yes","No",19
+814,"Vihiga","Male","Single",1,38,"Bronze",300000,"Chronic",09/10/08 00:49,"No","Yes",3
+815,"Kisii","Male","Single",4,60,"Bronze",300000,"Subacute",17/07/20 10:14,"No","No",14
+816,"Marsabit","Female","Widowed",3,74,"Bronze",1000000,"Congenital",12/10/04 07:00,"Yes","No",15
+817,"Kwale","Male","Single",4,50,"Bronze",500000,"Congenital",22/06/18 14:29,"No","No",4
+818,"Migori","Male","Separated",5,49,"Bronze",300000,"Congenital",14/02/13 19:38,"No","Yes",19
+819,"Bomet","Male","Married",3,73,"Bronze",500000,"Chronic",18/03/16 07:31,"No","No",15
+820,"Laikipia","Male","Separated",3,52,"Silver",500000,"Chronic",14/05/07 05:05,"No","No",17
+821,"West Pokot","Male","Separated",3,56,"Gold",300000,"Subacute",13/02/03 07:51,"No","Yes",12
+822,"Turkana","Female","Single",5,42,"Silver",500000,"Congenital",10/02/15 20:37,"Yes","No",6
+823,"Marsabit","Female","Separated",1,45,"Bronze",300000,"Subacute",23/11/16 10:24,"Yes","No",21
+824,"Vihiga","Male","Single",4,36,"Gold",500000,"Congenital",11/04/19 00:44,"No","No",18
+825,"Baringo","Male","Widowed",5,31,"Silver",300000,"Acute",20/02/18 17:59,"Yes","No",2
+826,"Vihiga","Male","Separated",5,48,"Bronze",500000,"Congenital",21/06/22 18:28,"No","No",1
+827,"Kisii","Female","Single",2,74,"Bronze",300000,"Acute",13/04/04 19:37,"No","No",13
+828,"Elgeyo-Marakwet","Female","Separated",0,74,"Silver",1000000,"Acute",28/04/18 10:38,"No","Yes",5
+829,"Meru","Male","Separated",4,61,"Silver",500000,"Congenital",25/03/09 17:40,"Yes","No",11
+830,"Meru","Female","Separated",1,41,"Bronze",1000000,"Chronic",01/09/08 17:45,"Yes","Yes",5
+831,"Tharaka-Nithi","Male","Single",4,33,"Bronze",300000,"Acute",16/01/20 11:00,"Yes","No",13
+832,"Uasin Gishu","Male","Separated",2,34,"Gold",300000,"Subacute",11/01/09 15:09,"Yes","No",13
+833,"Kisumu","Female","Married",3,30,"Silver",1000000,"Congenital",28/10/12 14:39,"No","No",6
+834,"Migori","Female","Married",0,33,"Gold",500000,"Chronic",02/09/22 18:39,"Yes","Yes",16
+835,"Kericho","Male","Separated",2,54,"Silver",1000000,"Chronic",22/05/05 03:26,"Yes","No",14
+836,"Nyeri","Male","Separated",2,69,"Bronze",300000,"Acute",25/05/08 10:21,"No","No",4
+837,"Siaya","Female","Married",2,65,"Bronze",500000,"Subacute",23/07/20 10:37,"Yes","No",17
+838,"Isiolo","Male","Married",1,42,"Bronze",1000000,"Congenital",05/02/21 12:12,"No","No",10
+839,"Uasin Gishu","Male","Married",3,54,"Bronze",300000,"Chronic",07/10/08 10:47,"Yes","Yes",6
+840,"Kwale","Male","Single",0,32,"Bronze",500000,"Chronic",19/08/06 03:41,"No","No",3
+841,"Kisii","Female","Single",2,54,"Bronze",500000,"Congenital",26/09/17 11:45,"No","No",6
+842,"Laikipia","Male","Separated",5,71,"Bronze",1000000,"Subacute",12/07/16 04:54,"Yes","No",4
+843,"Turkana","Male","Single",0,50,"Gold",500000,"Chronic",19/05/16 14:58,"Yes","No",20
+844,"Turkana","Female","Separated",0,63,"Bronze",300000,"Subacute",14/03/03 12:52,"Yes","No",11
+845,"Bomet","Female","Married",0,56,"Silver",300000,"Acute",03/01/13 12:15,"No","Yes",4
+846,"Marsabit","Female","Single",2,53,"Bronze",500000,"Congenital",06/12/14 07:20,"No","No",17
+847,"Embu","Male","Separated",1,59,"Silver",500000,"Acute",29/12/19 20:38,"Yes","No",13
+848,"Makueni","Male","Separated",1,39,"Bronze",300000,"Chronic",14/01/00 21:52,"Yes","No",8
+849,"West Pokot","Female","Widowed",5,70,"Gold",300000,"Chronic",18/09/04 17:21,"Yes","No",15
+850,"Meru","Male","Married",1,37,"Bronze",300000,"Subacute",17/09/06 00:23,"Yes","Yes",17
+851,"Marsabit","Female","Married",2,43,"Bronze",300000,"Subacute",23/01/06 11:00,"No","No",1
+852,"Meru","Female","Married",4,72,"Silver",300000,"Subacute",23/04/07 03:38,"No","No",7
+853,"Meru","Female","Separated",5,57,"Bronze",1000000,"Congenital",19/08/11 15:30,"Yes","No",6
+854,"Embu","Female","Married",4,73,"Bronze",500000,"Chronic",24/06/22 12:59,"No","No",1
+855,"Marsabit","Female","Single",4,34,"Bronze",500000,"Chronic",01/02/10 13:15,"No","No",21
+856,"Kwale","Male","Married",4,60,"Silver",1000000,"Acute",24/10/07 03:12,"No","No",19
+857,"Trans-Nzoia","Male","Single",4,43,"Silver",500000,"Acute",10/05/20 05:46,"No","No",2
+858,"Kisii","Male","Single",1,73,"Bronze",300000,"Congenital",31/08/10 05:27,"Yes","No",13
+859,"Kisii","Female","Separated",3,46,"Silver",300000,"Subacute",02/05/04 04:57,"Yes","No",20
+860,"Kiambu","Male","Separated",0,73,"Bronze",500000,"Chronic",10/04/04 11:51,"Yes","No",18
+861,"Meru","Female","Single",1,58,"Gold",500000,"Acute",01/11/20 12:14,"No","No",16
+862,"Embu","Female","Single",2,55,"Bronze",1000000,"Subacute",19/08/09 16:10,"No","Yes",7
+863,"Meru","Male","Separated",2,43,"Bronze",1000000,"Congenital",03/07/07 03:27,"Yes","No",19
+864,"Kiambu","Female","Married",0,69,"Bronze",300000,"Acute",18/01/08 02:35,"Yes","No",16
+865,"Murang'a","Male","Single",0,49,"Silver",300000,"Congenital",20/09/09 01:55,"No","No",12
+866,"Tana River","Male","Divorced",1,67,"Bronze",300000,"Chronic",11/03/19 07:34,"No","No",4
+867,"Migori","Male","Married",5,58,"Gold",1000000,"Subacute",27/01/01 14:29,"No","No",15
+868,"Trans-Nzoia","Female","Separated",4,54,"Gold",500000,"Chronic",04/03/08 20:49,"No","No",8
+869,"Vihiga","Female","Single",4,62,"Bronze",300000,"Subacute",05/03/22 07:37,"No","No",15
+870,"Kiambu","Female","Married",0,58,"Bronze",300000,"Subacute",09/01/19 04:49,"No","No",7
+871,"Nandi","Female","Married",0,49,"Bronze",500000,"Congenital",02/06/10 14:27,"No","Yes",16
+872,"Turkana","Female","Separated",3,41,"Silver",500000,"Chronic",27/07/18 05:05,"No","No",14
+873,"Kisumu","Male","Separated",5,42,"Bronze",300000,"Chronic",27/10/02 03:40,"No","No",4
+874,"Samburu","Male","Widowed",3,41,"Gold",300000,"Acute",29/07/15 10:19,"No","No",1
+875,"Nandi","Female","Married",0,64,"Bronze",300000,"Acute",17/09/10 00:10,"No","No",8
+876,"Mombasa (County)","Male","Single",3,50,"Bronze",300000,"Chronic",20/09/06 15:55,"No","No",14
+877,"Marsabit","Male","Separated",2,60,"Bronze",300000,"Subacute",24/05/00 04:32,"No","Yes",12
+878,"Meru","Female","Separated",3,44,"Bronze",500000,"Subacute",12/01/17 07:10,"No","No",19
+879,"Samburu","Female","Single",1,40,"Bronze",500000,"Chronic",26/02/18 07:32,"No","No",2
+880,"Vihiga","Female","Single",2,67,"Silver",300000,"Acute",11/06/07 02:44,"No","Yes",5
+881,"Kitui","Male","Married",0,33,"Gold",300000,"Subacute",22/01/10 19:32,"Yes","No",8
+882,"Nandi","Male","Separated",1,40,"Bronze",500000,"Chronic",21/05/15 13:14,"Yes","No",21
+883,"Isiolo","Male","Single",1,70,"Gold",1000000,"Congenital",21/07/09 09:35,"Yes","No",9
+884,"Mandera","Male","Widowed",1,62,"Bronze",300000,"Chronic",20/01/12 12:57,"No","No",3
+885,"Kisii","Male","Married",5,56,"Bronze",300000,"Acute",01/04/20 01:07,"Yes","No",18
+886,"Uasin Gishu","Male","Single",3,49,"Bronze",300000,"Acute",07/11/04 20:09,"No","No",15
+887,"Nandi","Female","Registered Partnership",5,46,"Gold",300000,"Subacute",29/05/19 13:11,"Yes","No",20
+888,"Kericho","Female","Widowed",4,48,"Bronze",500000,"Chronic",21/05/05 22:39,"No","No",12
+889,"Turkana","Female","Single",4,44,"Gold",500000,"Congenital",14/02/10 10:42,"Yes","No",16
+890,"Embu","Male","Widowed",5,50,"Gold",500000,"Subacute",23/10/13 03:42,"Yes","No",1
+891,"Isiolo","Male","Separated",5,74,"Gold",1000000,"Chronic",05/05/06 04:59,"No","Yes",12
+892,"Laikipia","Female","Single",2,62,"Silver",300000,"Chronic",23/05/06 05:22,"No","No",2
+893,"Kakamega","Female","Widowed",1,67,"Gold",500000,"Subacute",03/09/16 21:47,"Yes","No",2
+894,"Kiambu","Male","Single",0,58,"Bronze",300000,"Congenital",06/01/04 20:27,"Yes","No",16
+895,"Kisii","Female","Single",1,43,"Silver",300000,"Chronic",30/05/13 03:05,"Yes","Yes",10
+896,"Marsabit","Female","Separated",1,48,"Silver",500000,"Acute",05/05/02 09:59,"No","No",20
+897,"Turkana","Female","Married",2,58,"Gold",300000,"Chronic",08/06/22 16:33,"No","Yes",16
+898,"Migori","Male","Separated",0,66,"Silver",500000,"Subacute",19/08/20 07:36,"No","No",2
+899,"Samburu","Female","Single",3,60,"Silver",500000,"Chronic",23/10/08 05:52,"No","No",7
+900,"Machakos","Female","Single",2,59,"Bronze",500000,"Acute",27/02/16 18:17,"No","No",21
+901,"Samburu","Male","Widowed",2,38,"Bronze",500000,"Chronic",07/02/07 17:49,"No","No",3
+902,"Trans-Nzoia","Female","Separated",3,45,"Bronze",300000,"Acute",05/08/18 06:52,"Yes","Yes",7
+903,"Migori","Female","Married",2,70,"Gold",300000,"Acute",06/01/06 23:38,"Yes","No",4
+904,"Laikipia","Male","Separated",5,50,"Bronze",500000,"Acute",04/06/19 22:22,"No","No",6
+905,"Turkana","Female","Widowed",3,52,"Bronze",300000,"Subacute",09/01/18 17:04,"Yes","No",20
+906,"Embu","Male","Separated",3,51,"Gold",500000,"Subacute",22/01/17 10:12,"No","No",17
+907,"Baringo","Male","Widowed",2,44,"Bronze",300000,"Congenital",02/09/20 21:20,"No","No",14
+908,"Busia","Male","Separated",1,73,"Silver",500000,"Chronic",14/05/12 17:49,"No","No",6
+909,"Kilifi","Female","Single",3,74,"Bronze",300000,"Congenital",12/08/11 23:11,"No","No",17
+910,"Migori","Male","Separated",3,30,"Silver",300000,"Subacute",16/06/22 17:06,"Yes","Yes",21
+911,"Marsabit","Male","Married",0,50,"Silver",500000,"Chronic",27/01/14 21:45,"No","No",4
+912,"Turkana","Male","Separated",0,40,"Silver",1000000,"Chronic",10/01/08 09:34,"No","No",8
+913,"Kakamega","Male","Single",0,53,"Bronze",1000000,"Acute",10/04/16 07:39,"No","No",15
+914,"Kajiado","Male","Widowed",5,51,"Silver",300000,"Chronic",15/05/20 01:05,"No","No",16
+915,"Vihiga","Female","Separated",1,50,"Gold",1000000,"Acute",15/09/02 18:52,"No","No",14
+916,"Kisii","Male","Single",4,57,"Bronze",300000,"Chronic",22/06/10 01:08,"No","Yes",14
+917,"Bomet","Female","Separated",2,40,"Bronze",1000000,"Chronic",05/10/16 11:46,"No","Yes",21
+918,"Uasin Gishu","Female","Widowed",1,32,"Bronze",300000,"Chronic",06/01/05 15:07,"No","No",13
+919,"Machakos","Male","Married",5,60,"Silver",300000,"Subacute",24/12/04 22:39,"No","No",12
+920,"Kiambu","Male","Married",4,58,"Gold",1000000,"Chronic",12/11/11 00:01,"No","No",5
+921,"Embu","Male","Single",2,50,"Silver",1000000,"Subacute",11/12/11 13:47,"Yes","No",20
+922,"Mombasa (County)","Female","Separated",3,55,"Bronze",300000,"Acute",22/12/18 12:08,"No","No",20
+923,"Trans-Nzoia","Female","Married",0,50,"Silver",300000,"Congenital",24/03/13 16:04,"No","No",11
+924,"Wajir","Female","Single",1,32,"Silver",500000,"Chronic",14/01/01 03:09,"Yes","No",19
+925,"Kwale","Male","Widowed",2,44,"Bronze",300000,"Subacute",15/02/01 01:33,"Yes","No",2
+926,"Migori","Male","Married",4,35,"Silver",500000,"Congenital",03/04/06 15:16,"No","No",4
+927,"Garissa","Female","Single",2,33,"Silver",1000000,"Acute",20/10/03 21:47,"Yes","No",13
+928,"West Pokot","Male","Married",5,40,"Gold",500000,"Acute",24/03/08 13:04,"No","No",18
+929,"Migori","Female","Separated",1,37,"Bronze",300000,"Congenital",12/05/12 07:00,"No","Yes",20
+930,"Laikipia","Female","Separated",4,54,"Silver",1000000,"Congenital",13/04/14 03:49,"Yes","No",10
+931,"Kisumu","Male","Separated",3,33,"Bronze",1000000,"Acute",26/11/09 07:08,"Yes","No",15
+932,"Vihiga","Female","Separated",2,56,"Silver",300000,"Chronic",30/12/19 20:00,"No","No",3
+933,"Meru","Male","Separated",4,67,"Bronze",500000,"Acute",01/07/20 17:34,"No","Yes",20
+934,"Makueni","Male","Separated",5,56,"Bronze",1000000,"Subacute",27/11/06 16:36,"Yes","No",9
+935,"Makueni","Male","Married",0,64,"Silver",300000,"Chronic",06/12/00 19:10,"No","No",14
+936,"Machakos","Female","Married",4,41,"Bronze",300000,"Subacute",03/10/15 01:36,"Yes","No",15
+937,"Turkana","Male","Married",2,43,"Gold",300000,"Subacute",13/12/12 12:31,"No","No",21
+938,"Marsabit","Female","Separated",1,43,"Bronze",500000,"Chronic",27/06/12 16:08,"No","No",17
+939,"West Pokot","Male","Separated",4,34,"Silver",500000,"Congenital",29/05/18 15:12,"Yes","No",17
+940,"Kisumu","Female","Separated",5,73,"Gold",300000,"Subacute",29/10/06 00:20,"Yes","No",8
+941,"Machakos","Female","Single",2,49,"Gold",1000000,"Acute",22/05/01 10:05,"No","No",19
+942,"Kisii","Female","Single",2,48,"Bronze",1000000,"Acute",03/07/10 08:12,"No","No",6
+943,"Kericho","Male","Married",4,43,"Gold",500000,"Subacute",09/02/03 12:13,"No","No",14
+944,"Embu","Male","Separated",5,32,"Silver",300000,"Chronic",02/04/16 11:30,"No","No",7
+945,"West Pokot","Female","Separated",1,70,"Bronze",300000,"Acute",28/08/17 21:31,"Yes","No",3
+946,"Kwale","Male","Single",2,53,"Silver",500000,"Congenital",21/02/17 15:42,"Yes","Yes",8
+947,"Kericho","Female","Separated",4,74,"Bronze",300000,"Chronic",26/10/21 12:02,"Yes","No",7
+948,"Meru","Male","Single",4,56,"Bronze",300000,"Subacute",25/09/20 10:52,"Yes","No",6
+949,"Migori","Male","Separated",3,58,"Silver",300000,"Subacute",19/08/18 20:06,"Yes","No",14
+950,"Uasin Gishu","Male","Married",3,42,"Silver",300000,"Chronic",08/09/03 19:46,"Yes","No",2
+951,"Kisii","Male","Married",4,31,"Silver",300000,"Congenital",22/05/15 09:47,"No","No",19
+952,"Narok","Male","Separated",0,47,"Bronze",1000000,"Congenital",07/11/10 21:19,"Yes","No",15
+953,"Meru","Male","Separated",4,45,"Gold",500000,"Acute",06/02/21 05:00,"Yes","No",9
+954,"Kajiado","Male","Separated",4,35,"Bronze",1000000,"Congenital",18/02/00 08:43,"No","No",8
+955,"Kisii","Female","Widowed",1,74,"Gold",300000,"Acute",15/03/05 04:24,"Yes","Yes",10
+956,"Marsabit","Male","Married",2,45,"Silver",500000,"Chronic",22/10/08 09:37,"No","No",20
+957,"Migori","Male","Separated",5,53,"Bronze",300000,"Congenital",30/07/19 18:30,"No","Yes",8
+958,"Baringo","Male","Single",5,71,"Silver",300000,"Chronic",29/07/19 06:53,"No","No",19
+959,"Embu","Female","Separated",2,32,"Bronze",1000000,"Chronic",11/10/10 14:36,"No","No",10
+960,"Nandi","Female","Single",1,59,"Bronze",300000,"Acute",01/06/04 07:57,"No","Yes",20
+961,"Kisumu","Male","Separated",1,55,"Bronze",500000,"Acute",18/05/20 06:59,"Yes","Yes",7
+962,"Migori","Female","Separated",0,70,"Bronze",1000000,"Subacute",12/07/12 04:58,"Yes","No",11
+963,"Migori","Male","Single",5,36,"Silver",500000,"Chronic",22/06/19 07:10,"Yes","No",5
+964,"Vihiga","Male","Widowed",2,39,"Bronze",500000,"Acute",31/10/19 15:28,"Yes","No",12
+965,"Kiambu","Male","Married",2,48,"Bronze",1000000,"Chronic",22/05/14 20:58,"Yes","No",11
+966,"Turkana","Female","Separated",3,57,"Bronze",300000,"Chronic",08/10/02 00:02,"Yes","Yes",8
+967,"Meru","Male","Separated",4,58,"Silver",500000,"Subacute",30/07/06 01:44,"Yes","No",12
+968,"Kisii","Male","Separated",5,40,"Gold",1000000,"Acute",31/12/08 21:53,"Yes","No",21
+969,"Kisii","Female","Single",0,62,"Silver",500000,"Subacute",19/03/01 10:54,"No","No",7
+970,"Trans-Nzoia","Female","Single",2,35,"Bronze",300000,"Acute",06/06/18 05:55,"Yes","No",3
+971,"Kakamega","Female","Single",5,30,"Silver",1000000,"Congenital",05/04/04 10:02,"No","No",20
+972,"Trans-Nzoia","Male","Separated",3,48,"Gold",500000,"Chronic",15/12/12 19:26,"Yes","No",11
+973,"Embu","Female","Widowed",2,48,"Bronze",300000,"Congenital",09/03/17 01:49,"No","Yes",14
+974,"Turkana","Male","Separated",0,71,"Bronze",300000,"Chronic",15/08/05 07:44,"No","No",18
+975,"Baringo","Female","Married",2,50,"Bronze",500000,"Congenital",29/10/14 14:19,"No","No",18
+976,"Kisumu","Male","Separated",4,36,"Bronze",1000000,"Congenital",05/03/13 11:18,"No","No",6
+977,"Machakos","Male","Widowed",2,32,"Bronze",1000000,"Subacute",19/06/10 02:47,"No","No",16
+978,"Migori","Female","Widowed",0,66,"Bronze",300000,"Subacute",04/01/00 21:06,"Yes","No",9
+979,"Wajir","Male","Separated",1,47,"Bronze",300000,"Chronic",02/02/17 15:26,"No","No",13
+980,"Kisii","Female","Single",2,64,"Silver",500000,"Acute",04/08/19 22:08,"Yes","No",6
+981,"Mombasa (County)","Male","Single",0,61,"Bronze",300000,"Chronic",10/12/02 10:19,"Yes","No",7
+982,"Nandi","Female","Separated",0,68,"Gold",1000000,"Acute",22/11/02 06:44,"Yes","Yes",21
+983,"Murang'a","Female","Married",5,45,"Gold",300000,"Congenital",26/09/07 03:29,"No","No",20
+984,"Turkana","Female","Single",0,57,"Silver",300000,"Congenital",24/03/00 02:12,"Yes","No",10
+985,"Nairobi (County)","Female","Married",1,64,"Silver",500000,"Chronic",20/10/00 19:51,"No","No",20
+986,"Uasin Gishu","Female","Separated",5,59,"Bronze",500000,"Subacute",12/09/20 11:56,"No","No",5
+987,"Machakos","Female","Widowed",5,49,"Silver",300000,"Chronic",01/05/20 10:06,"No","No",14
+988,"Kisii","Female","Separated",1,46,"Bronze",1000000,"Congenital",08/12/02 15:43,"Yes","No",21
+989,"Kisii","Female","Separated",2,68,"Bronze",500000,"Congenital",30/03/02 01:05,"Yes","No",12
+990,"Turkana","Male","Single",3,50,"Silver",500000,"Subacute",05/11/02 20:16,"No","No",2
+991,"Isiolo","Female","Widowed",5,45,"Silver",300000,"Subacute",23/04/01 11:59,"No","Yes",3
+992,"Wajir","Male","Separated",2,68,"Silver",500000,"Subacute",16/11/09 16:01,"Yes","No",7
+993,"Kiambu","Female","Separated",3,65,"Silver",500000,"Acute",28/02/19 22:07,"Yes","No",19
+994,"Narok","Male","Married",3,41,"Bronze",300000,"Acute",12/05/13 05:46,"Yes","No",19
+995,"Garissa","Male","Separated",0,59,"Silver",1000000,"Chronic",14/09/06 02:41,"No","No",9
+996,"Kisii","Male","Widowed",0,64,"Silver",300000,"Acute",29/10/06 03:41,"No","No",13
+997,"Trans-Nzoia","Female","Separated",4,41,"Bronze",500000,"Subacute",03/06/16 16:08,"No","Yes",17
+998,"Embu","Female","Married",3,53,"Bronze",300000,"Acute",10/05/02 17:58,"Yes","No",15
+999,"Migori","Female","Single",5,67,"Gold",300000,"Congenital",10/02/19 23:38,"Yes","Yes",8
+1000,"Vihiga","Male","Married",0,61,"Silver",300000,"Chronic",11/07/02 21:21,"Yes","No",11

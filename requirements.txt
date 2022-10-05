@@ -1,0 +1,6 @@
+pandas_profiling
+RISE
+jupyter_contrib_nbextensions
+pylint
+black
+csvkit

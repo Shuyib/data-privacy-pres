@@ -1,0 +1,694 @@
+Date,Instrument,Reading,Observation,Status
+2021/04/04 12:05:00 ,Pulse oximeter,HR,62,Well
+2021/04/04 12:06:00 ,Pulse oximeter,SpO2,96,Well
+2021/04/04 12:13:42 ,Thermometer,Temperature,36.7,Well
+2021/10/04 09:33:00 ,Thermometer,Temperature,37,Well
+2021/10/04 09:33:00 ,Pulse oximeter,HR,63,Well
+2021/10/04 09:33:00 ,Pulse oximeter,SpO2,96,Well
+2021/10/04 13:18:09 ,Thermometer,Temperature,36.6,Well
+2021/10/04 13:18:09 ,Pulse oximeter,SpO2,97,Well
+2021/10/04 13:18:09 ,Thermometer,HR,74,Well
+2021/11/04 10:03:22 ,Thermometer,Temperature,36.9,Well
+2021/11/04 10:03:22 ,Pulse oximeter,SpO2,97,Well
+2021/11/04 10:03:22 ,Pulse oximeter,HR,55,Well
+2021/11/04 12:04:00 ,Thermometer,Temperature,36.2,Well
+2021/11/04 12:04:00 ,Pulse oximeter,SpO2,97,Well
+2021/11/04 12:04:00 ,Pulse oximeter,HR,50,Well
+2021/11/04 18:19:00 ,Thermometer,Temperature,35.9,Well
+2021/11/04 18:19:00 ,Pulse oximeter,SpO2,96,Well
+2021/11/04 18:19:00 ,Pulse oximeter,HR,51,Well
+2021/12/04 09:27:44 ,Thermometer,Temperature,37.2,Well
+2021/12/04 09:27:44 ,Pulse oximeter,SpO2,96,Well
+2021/12/04 09:27:44 ,Pulse oximeter,HR,60,Well
+2021/12/04 12:03:06 ,Thermometer,Temperature,36.1,Well
+2021/12/04 12:03:06 ,Pulse oximeter,SpO2,96,Well
+2021/12/04 12:03:06 ,Pulse oximeter,HR,76,Well
+2021/12/04 18:40:44 ,Thermometer,Temperature,36,Well
+2021/12/04 18:40:44 ,Pulse oximeter,SpO2,96,Well
+2021/12/04 18:40:44 ,Pulse oximeter,HR,61,Well
+2021/13/04 09:02:41 ,Thermometer,Temperature,36.7,Well
+2021/13/04 09:02:41 ,Pulse oximeter,SpO2,97,Well
+2021/13/04 09:02:41 ,Pulse oximeter,HR,57,Well
+2021/13/04 12:56:24 ,Thermometer,Temperature,36.5,Well
+2021/13/04 12:56:24 ,Pulse oximeter,SpO2,98,Well
+2021/13/04 12:56:24 ,Pulse oximeter,HR,54,Well
+2021/14/04 09:29:45 ,Thermometer,Temperature,36.7,Well
+2021/14/04 09:29:45 ,Pulse oximeter,SpO2,96,Well
+2021/14/04 09:29:45 ,Pulse oximeter,HR,66,Well
+2021/14/04 12:55:30 ,Thermometer,Temperature,36.9,Well
+2021/14/04 12:55:30 ,Pulse oximeter,SpO2,96,Well
+2021/14/04 12:55:30 ,Pulse oximeter,HR,58,Well
+2021/14/04 18:19:33 ,Thermometer,Temperature,36.5,Well
+2021/14/04 18:19:33 ,Pulse oximeter,SpO2,96,Well
+2021/14/04 18:19:33 ,Pulse oximeter,HR,74,Well
+2021/15/04 09:20:39 ,Thermometer,Temperature,36.6,Tired
+2021/15/04 09:20:39 ,Pulse oximeter,SpO2,96,Tired
+2021/15/04 09:20:39 ,Pulse oximeter,HR,67,Tired
+2021/15/04 12:27:09 ,Thermometer,Temperature,37,Tired
+2021/15/04 12:27:09 ,Pulse oximeter,SpO2,96,Tired
+2021/15/04 12:27:09 ,Pulse oximeter,HR,63,Tired
+2021/15/04 18:19:03 ,Thermometer,Temperature,36.6,Tired
+2021/15/04 18:19:03 ,Pulse oximeter,SpO2,96,Tired
+2021/15/04 18:19:03 ,Pulse oximeter,HR,60,Tired
+2021/16/04 13:18:13 ,Thermometer,Temperature,36.8,Well
+2021/16/04 13:18:13 ,Pulse oximeter,SpO2,96,Well
+2021/16/04 13:18:13 ,Pulse oximeter,HR,77,Well
+2021/16/04 20:26:97 ,Thermometer,Temperature,36.5,Well
+2021/16/04 20:26:97 ,Pulse oximeter,SpO2,96,Well
+2021/16/04 20:26:97 ,Pulse oximeter,HR,52,Well
+2021/17/04 09:07:57 ,Thermometer,Temperature,36.8,Well
+2021/17/04 09:07:57 ,Pulse oximeter,SpO2,97,Well
+2021/17/04 09:07:57 ,Pulse oximeter,HR,55,Well
+2021/17/04 13:07:04 ,Thermometer,Temperature,36.5,Well
+2021/17/04 13:07:04 ,Pulse oximeter,SpO2,97,Well
+2021/17/04 13:07:04 ,Pulse oximeter,HR,66,Well
+2021/17/04 18:28:45 ,Thermometer,Temperature,36.7,Well
+2021/17/04 18:28:45 ,Pulse oximeter,SpO2,96,Well
+2021/17/04 18:28:45 ,Pulse oximeter,HR,61,Well
+2021/18/04 09:10:09 ,Thermometer,Temperature,36.8,Well
+2021/18/04 09:10:09 ,Pulse oximeter,SpO2,96,Well
+2021/18/04 09:10:09 ,Pulse oximeter,HR,57,Well
+2021/18/04 13:59:33 ,Thermometer,Temperature,36.6,Well
+2021/18/04 13:59:33 ,Pulse oximeter,SpO2,97,Well
+2021/18/04 13:59:33 ,Pulse oximeter,HR,55,Well
+2021/18/04 18:10:05 ,Thermometer,Temperature,36.5,Well
+2021/18/04 18:10:05 ,Pulse oximeter,SpO2,97,Well
+2021/18/04 18:10:05 ,Pulse oximeter,HR,44,Well
+2021/19/04 09:02:49 ,Thermometer,Temperature,37,Well
+2021/19/04 09:02:49 ,Pulse oximeter,SpO2,96,Well
+2021/19/04 09:02:49 ,Pulse oximeter,HR,56,Well
+2021/19/04 12:48:52 ,Thermometer,Temperature,36.8,Well
+2021/19/04 12:48:52 ,Pulse oximeter,SpO2,96,Well
+2021/19/04 12:48:52 ,Pulse oximeter,HR,68,Well
+2021/19/04 18:30:39 ,Thermometer,Temperature,36,Well
+2021/19/04 18:30:39 ,Pulse oximeter,SpO2,96,Well
+2021/19/04 18:30:39 ,Pulse oximeter,HR,83,Well
+2021/20/04 09:12:34 ,Thermometer,Temperature,36.8,Well
+2021/20/04 09:12:34 ,Pulse oximeter,SpO2,96,Well
+2021/20/04 09:12:34 ,Pulse oximeter,HR,86,Well
+2021/20/04 12:06:00 ,Thermometer,Temperature,36.9,Well
+2021/20/04 12:06:00 ,Pulse oximeter,SpO2,97,Well
+2021/20/04 12:06:00 ,Pulse oximeter,HR,57,Well
+2021/20/04 18:21:00 ,Thermometer,Temperature,36.6,Well
+2021/20/04 18:21:00 ,Pulse oximeter,SpO2,96,Well
+2021/20/04 18:21:00 ,Pulse oximeter,HR,56,Well
+2021/21/04 09:45:50 ,Thermometer,Temperature,37.2,Well
+2021/21/04 09:45:50 ,Pulse oximeter,SpO2,96,Well
+2021/21/04 09:45:50 ,Pulse oximeter,HR,76,Well
+2021/21/04 12:13:00 ,Thermometer,Temperature,36.6,Well
+2021/21/04 12:13:00 ,Pulse oximeter,SpO2,97,Well
+2021/21/04 12:13:00 ,Pulse oximeter,HR,57,Well
+2021/21/04 18:10:00 ,Thermometer,Temperature,36.4,Well
+2021/21/04 18:10:00 ,Pulse oximeter,SpO2,97,Well
+2021/21/04 18:10:00 ,Pulse oximeter,HR,57,Well
+2021/22/04 09:29:00 ,Thermometer,Temperature,37.1,Well
+2021/22/04 09:29:00 ,Pulse oximeter,SpO2,96,Well
+2021/22/04 09:29:00 ,Pulse oximeter,HR,70,Well
+2021/22/04 12:16:07 ,Thermometer,Temperature,37.1,Well
+2021/22/04 12:16:07 ,Pulse oximeter,SpO2,96,Well
+2021/22/04 12:16:07 ,Pulse oximeter,HR,54,Well
+2021/22/04 18:43:30 ,Thermometer,Temperature,36.7,Well
+2021/22/04 18:43:30 ,Pulse oximeter,SpO2,96,Well
+2021/22/04 18:43:30 ,Pulse oximeter,HR,54,Well
+2021/23/04 09:10:25 ,Thermometer,Temperature,36.8,Well
+2021/23/04 09:10:25 ,Pulse oximeter,SpO2,97,Well
+2021/23/04 09:10:25 ,Pulse oximeter,HR,55,Well
+2021/23/04 12:11:00 ,Thermometer,Temperature,37.1,Well
+2021/23/04 12:11:00 ,Pulse oximeter,SpO2,97,Well
+2021/23/04 12:11:00 ,Pulse oximeter,HR,68,Well
+2021/23/04 18:15:00 ,Thermometer,Temperature,36.8,Well
+2021/23/04 18:15:00 ,Pulse oximeter,SpO2,95,Well
+2021/23/04 18:15:00 ,Pulse oximeter,HR,58,Well
+2021/24/04 10:46:45 ,Thermometer,Temperature,37.1,Well
+2021/24/04 10:46:45 ,Pulse oximeter,SpO2,97,Well
+2021/24/04 10:46:45 ,Pulse oximeter,HR,58,Well
+2021/24/04 13:02:00 ,Thermometer,Temperature,36.7,Well
+2021/24/04 13:02:00 ,Pulse oximeter,SpO2,96,Well
+2021/24/04 13:02:00 ,Pulse oximeter,HR,76,Well
+2021/25/04 09:56:46 ,Thermometer,Temperature,37.1,Allergy
+2021/25/04 09:56:46 ,Pulse oximeter,HR,64,Allergy
+2021/25/04 09:56:46 ,Pulse oximeter,SpO2,96,Allergy
+2021/25/04 14:17:18 ,Thermometer,Temperature,37,Allergy
+2021/25/04 14:17:18 ,Pulse oximeter,SpO2,97,Allergy
+2021/25/04 14:17:18 ,Pulse oximeter,HR,86,Allergy
+2021/25/04 18:47:24 ,Thermometer,Temperature,36.7,Allergy
+2021/25/04 18:47:24 ,Pulse oximeter,SpO2,96,Allergy
+2021/25/04 18:47:24 ,Pulse oximeter,HR,54,Allergy
+2021/26/04 10:23:08 ,Thermometer,Temperature,36.7,Well
+2021/26/04 10:23:08 ,Pulse oximeter,SpO2,97,Well
+2021/26/04 10:23:08 ,Pulse oximeter,HR,60,Well
+2021/26/04 12:06:13 ,Thermometer,Temperature,37,Well
+2021/26/04 12:06:13 ,Pulse oximeter,SpO2,97,Well
+2021/26/04 12:06:13 ,Pulse oximeter,HR,67,Well
+2021/27/04 10:49:50 ,Thermometer,Temperature,37.2,Well
+2021/27/04 10:49:50 ,Pulse oximeter,SpO2,97,Well
+2021/27/04 10:49:50 ,Pulse oximeter,HR,69,Well
+2021/27/04 12:08:48 ,Thermometer,Temperature,37,Well
+2021/27/04 12:08:48 ,Pulse oximeter,SpO2,97,Well
+2021/27/04 12:08:48 ,Pulse oximeter,HR,63,Well
+2021/27/04 18:59:37 ,Thermometer,Temperature,36.9,Well
+2021/27/04 18:59:37 ,Pulse oximeter,SpO2,96,Well
+2021/27/04 18:59:37 ,Pulse oximeter,HR,73,Well
+2021/30/04 09:10:06 ,Thermometer,Temperature,36.9,Well
+2021/30/04 09:10:06 ,Pulse oximeter,SpO2,97,Well
+2021/30/04 09:10:06 ,Pulse oximeter,HR,70,Well
+2021/30/04 20:04:35 ,Thermometer,Temperature,36.8,Well
+2021/30/04 20:04:35 ,Pulse oximeter,SpO2,78,Well
+2021/30/04 20:04:35 ,Pulse oximeter,HR,96,Well
+2021/02/05 10:24:27 ,Thermometer,Temperature,36.9,Well
+2021/02/05 10:24:27 ,Pulse oximeter,SpO2,96,Well
+2021/02/05 10:24:27 ,Pulse oximeter,HR,73,Well
+2021/02/05 13:32:45 ,Thermometer,Temperature,36.7,Well
+2021/02/05 13:32:45 ,Pulse oximeter,SpO2,97,Well
+2021/02/05 13:32:45 ,Pulse oximeter,HR,80,Well
+2021/02/05 19:26:03 ,Thermometer,Temperature,36.9,Well
+2021/02/05 19:26:03 ,Pulse oximeter,SpO2,94,Well
+2021/02/05 19:26:03 ,Pulse oximeter,HR,79,Well
+2021/03/05 10:00:04 ,Thermometer,Temperature,36.9,Well
+2021/03/05 10:00:04 ,Pulse oximeter,SpO2,97,Well
+2021/03/05 10:00:04 ,Pulse oximeter,HR,63,Well
+2021/03/05 12:09:48 ,Thermometer,Temperature,37,Well
+2021/03/05 12:09:48 ,Pulse oximeter,SpO2,96,Well
+2021/03/05 12:09:48 ,Pulse oximeter,HR,57,Well
+2021/03/05 18:15:41 ,Thermometer,Temperature,36.4,Well
+2021/03/05 18:15:41 ,Pulse oximeter,SpO2,96,Well
+2021/03/05 18:15:41 ,Pulse oximeter,HR,62,Well
+2021/04/05 09:06:47 ,Thermometer,Temperature,37.2,Well
+2021/04/05 09:06:47 ,Pulse oximeter,SpO2,96,Well
+2021/04/05 09:06:47 ,Pulse oximeter,HR,88,Well
+2021/04/05 12:19:46 ,Thermometer,Temperature,36.6,Well
+2021/04/05 12:19:46 ,Pulse oximeter,SpO2,97,Well
+2021/04/05 12:19:46 ,Pulse oximeter,HR,55,Well
+2021/04/05 18:16:51 ,Thermometer,Temperature,36.2,Well
+2021/04/05 18:16:51 ,Pulse oximeter,SpO2,97,Well
+2021/04/05 18:16:51 ,Pulse oximeter,HR,71,Well
+2021/05/05 10:37:38 ,Thermometer,Temperature,37.2,Well
+2021/05/05 10:37:38 ,Pulse oximeter,SpO2,96,Well
+2021/05/05 10:37:38 ,Pulse oximeter,HR,63,Well
+2021/05/05 11:50:14 ,Thermometer,Temperature,36.8,Well
+2021/05/05 11:50:14 ,Pulse oximeter,SpO2,98,Well
+2021/05/05 11:50:14 ,Pulse oximeter,HR,52,Well
+2021/05/05 18:17:11 ,Thermometer,Temperature,36.8,Well
+2021/05/05 18:17:11 ,Pulse oximeter,SpO2,95,Well
+2021/05/05 18:17:11 ,Pulse oximeter,HR,56,Well
+2021/06/05 09:13:50 ,Thermometer,Temperature,36.3,Well
+2021/06/05 09:13:50 ,Pulse oximeter,SpO2,97,Well
+2021/06/05 09:13:50 ,Pulse oximeter,HR,51,Well
+2021/06/05 12:08:29 ,Thermometer,Temperature,33.1,Well
+2021/06/05 12:08:29 ,Pulse oximeter,SpO2,98,Well
+2021/06/05 12:08:29 ,Pulse oximeter,HR,68,Well
+2021/06/05 19:14:04 ,Thermometer,Temperature,36.4,Well
+2021/06/05 19:14:04 ,Pulse oximeter,SpO2,96,Well
+2021/06/05 19:14:04 ,Pulse oximeter,HR,50,Well
+2021/07/05 09:46:36 ,Thermometer,Temperature,37,Well
+2021/07/05 09:46:36 ,Pulse oximeter,SpO2,96,Well
+2021/07/05 09:46:36 ,Pulse oximeter,HR,71,Well
+2021/08/05 09:40:11 ,Thermometer,Temperature,36.9,Well
+2021/08/05 09:40:11 ,Pulse oximeter,SpO2,97,Well
+2021/08/05 09:40:11 ,Pulse oximeter,HR,78,Well
+2021/08/05 12:04:40 ,Thermometer,Temperature,36.9,Well
+2021/08/05 12:04:40 ,Pulse oximeter,SpO2,97,Well
+2021/08/05 12:04:40 ,Pulse oximeter,HR,67,Well
+2021/09/05 09:58:14 ,Thermometer,Temperature,36.7,Well
+2021/09/05 09:58:14 ,Pulse oximeter,SpO2,98,Well
+2021/09/05 09:58:14 ,Pulse oximeter,HR,90,Well
+2021/09/05 12:03:00 ,Thermometer,Temperature,36.9,Well
+2021/09/05 12:03:00 ,Pulse oximeter,SpO2,97,Well
+2021/09/05 12:03:00 ,Pulse oximeter,HR,69,Well
+2021/09/05 18:14:59 ,Thermometer,Temperature,36.7,Well
+2021/09/05 18:14:59 ,Pulse oximeter,SpO2,96,Well
+2021/09/05 18:14:59 ,Pulse oximeter,HR,68,Well
+2021/10/05:01:19:55 ,Thermometer,Temperature,36.8,Well
+2021/10/05:01:19:55 ,Pulse oximeter,SpO2,97,Well
+2021/10/05:01:19:55 ,Pulse oximeter,HR,66,Well
+2021/11/05 09:45:12 ,Thermometer,Temperature,37.1,Well
+2021/11/05 09:45:12 ,Pulse oximeter,SpO2,96,Well
+2021/11/05 09:45:12 ,Pulse oximeter,HR,76,Well
+2021/11/05 12:00:49 ,Thermometer,Temperature,36.2,Well
+2021/11/05 12:00:49 ,Pulse oximeter,SpO2,97,Well
+2021/11/05 12:00:49 ,Pulse oximeter,HR,63,Well
+2021/11/05 18:27:37 ,Thermometer,Temperature,35.7,Well
+2021/11/05 18:27:37 ,Pulse oximeter,SpO2,97,Well
+2021/11/05 18:27:37 ,Pulse oximeter,HR,56,Well
+2021/12/05 09:32:32 ,Thermometer,Temperature,37.4,Well
+2021/12/05 09:32:32 ,Pulse oximeter,SpO2,96,Well
+2021/12/05 09:32:32 ,Pulse oximeter,HR,76,Well
+2021/12/05 12:56:28 ,Thermometer,Temperature,37,Well
+2021/12/05 12:56:28 ,Pulse oximeter,SpO2,97,Well
+2021/12/05 12:56:28 ,Pulse oximeter,HR,67,Well
+2021/12/05 18:28:27 ,Thermometer,Temperature,36.5,Well
+2021/12/05 18:28:27 ,Pulse oximeter,SpO2,97,Well
+2021/12/05 18:28:27 ,Pulse oximeter,HR,51,Well
+2021/14/05 09:18:42 ,Thermometer,Temperature,36.3,Well
+2021/14/05 09:18:42 ,Pulse oximeter,SpO2,97,Well
+2021/14/05 09:18:42 ,Pulse oximeter,HR,54,Well
+2021/14/05 12:10:32 ,Thermometer,Temperature,36.6,Well
+2021/14/05 12:10:32 ,Pulse oximeter,SpO2,97,Well
+2021/14/05 12:10:32 ,Pulse oximeter,HR,72,Well
+2021/14/05 18:23:38 ,Thermometer,Temperature,36.2,Well
+2021/14/05 18:23:38 ,Pulse oximeter,SpO2,97,Well
+2021/14/05 18:23:38 ,Pulse oximeter,HR,49,Well
+2021/15/05 09:25:20 ,Thermometer,Temperature,36.7,Well
+2021/15/05 09:25:20 ,Pulse oximeter,SpO2,98,Well
+2021/15/05 09:25:20 ,Pulse oximeter,HR,57,Well
+2021/15/05 13:42:12 ,Thermometer,Temperature,36.8,Well
+2021/15/05 13:42:12 ,Pulse oximeter,SpO2,96,Well
+2021/15/05 13:42:12 ,Pulse oximeter,HR,81,Well
+2021/15/05 18:36:44 ,Thermometer,Temperature,36.8,Well
+2021/15/05 18:36:44 ,Pulse oximeter,SpO2,96,Well
+2021/15/05 18:36:44 ,Pulse oximeter,HR,91,Well
+2021/16/05 09:26:48 ,Thermometer,Temperature,33.1,Tired
+2021/16/05 09:26:48 ,Pulse oximeter,SpO2,96,Tired
+2021/16/05 09:26:48 ,Pulse oximeter,HR,86,Tired
+2021/16/05 12:35:31 ,Thermometer,Temperature,32.9,Tired
+2021/16/05 12:35:31 ,Pulse oximeter,SpO2,95,Tired
+2021/16/05 12:35:31 ,Pulse oximeter,HR,65,Tired
+2021/17/05 09:13:41 ,Thermometer,Temperature,33,Tired
+2021/17/05 09:13:41 ,Pulse oximeter,SpO2,96,Tired
+2021/17/05 09:13:41 ,Pulse oximeter,HR,65,Tired
+2021/17/05 13:00:30 ,Thermometer,Temperature,32.7,Tired
+2021/17/05 13:00:30 ,Pulse oximeter,SpO2,96,Tired
+2021/17/05 13:00:30 ,Pulse oximeter,HR,55,Tired
+2021/18/05 09:42:53 ,Thermometer,Temperature,36.9,Well
+2021/18/05 09:42:53 ,Pulse oximeter,SpO2,97,Well
+2021/18/05 09:42:53 ,Pulse oximeter,HR,73,Well
+2021/18/05 12:26:30 ,Thermometer,Temperature,35.5,Well
+2021/18/05 12:26:30 ,Pulse oximeter,SpO2,96,Well
+2021/18/05 12:26:30 ,Pulse oximeter,HR,64,Well
+2021/18/05 19:15:00 ,Thermometer,Temperature,36.6,Well
+2021/18/05 19:15:00 ,Pulse oximeter,SpO2,97,Well
+2021/18/05 19:15:00 ,Pulse oximeter,HR,61,Well
+2021/19/05 10:16:02 ,Thermometer,Temperature,36.5,anxious
+2021/19/05 10:16:02 ,Pulse oximeter,SpO2,97,anxious
+2021/19/05 10:16:02 ,Pulse oximeter,HR,54,anxious
+2021/19/05 12:13:05 ,Thermometer,Temperature,37.2,anxious
+2021/19/05 12:13:05 ,Pulse oximeter,SpO2,98,anxious
+2021/19/05 12:13:05 ,Pulse oximeter,HR,58,anxious
+2021/19/05 17:53:10 ,Thermometer,Temperature,36.5,Well
+2021/19/05 17:53:10 ,Pulse oximeter,SpO2,97,Well
+2021/19/05 17:53:10 ,Pulse oximeter,HR,56,Well
+2021/21/05 09:19:50 ,Thermometer,Temperature,36.6,Well
+2021/21/05 09:19:50 ,Pulse oximeter,SpO2,97,Well
+2021/21/05 09:19:50 ,Pulse oximeter,HR,53,Well
+2021/21/05 11:52:53 ,Thermometer,Temperature,36.7,Well
+2021/21/05 11:52:53 ,Pulse oximeter,SpO2,97,Well
+2021/21/05 11:52:53 ,Pulse oximeter,HR,65,Well
+2021/21/05 18:31:23 ,Thermometer,Temperature,36.5,Well
+2021/21/05 18:31:23 ,Pulse oximeter,SpO2,95,Well
+2021/21/05 18:31:23 ,Pulse oximeter,HR,98,Well
+2021/23/05 10:05:09 ,Thermometer,Temperature,36.4,Tired
+2021/23/05 10:05:09 ,Pulse oximeter,SpO2,96,Tired
+2021/23/05 10:05:09 ,Pulse oximeter,HR,70,Tired
+2021/23/05 13:19:54 ,Thermometer,Temperature,36.7,Tired
+2021/23/05 13:19:54 ,Pulse oximeter,SpO2,97,Tired
+2021/23/05 13:19:54 ,Pulse oximeter,HR,54,Tired
+2021/23/05 20:24:20 ,Thermometer,Temperature,36.2,Tired
+2021/23/05 20:24:20 ,Pulse oximeter,SpO2,97,Tired
+2021/23/05 20:24:20 ,Pulse oximeter,HR,50,Tired
+2021/23/05 12:22:58 ,Thermometer,Temperature,36.8,Well
+2021/23/05 12:22:58 ,Pulse oximeter,SpO2,97,Well
+2021/23/05 12:22:58 ,Pulse oximeter,HR,55,Well
+2021/23/05 18:07:59 ,Thermometer,Temperature,36.5,Well
+2021/23/05 18:07:59 ,Pulse oximeter,SpO2,97,Well
+2021/23/05 18:07:59 ,Pulse oximeter,HR,53,Well
+2021/25/05 10:20:05 ,Thermometer,Temperature,37.6,Well
+2021/25/05 10:20:05 ,Pulse oximeter,SpO2,96,Well
+2021/25/05 10:20:05 ,Pulse oximeter,HR,77,Well
+2021/25/05 12:34:38 ,Thermometer,Temperature,36.1,Well
+2021/25/05 12:34:38 ,Pulse oximeter,SpO2,98,Well
+2021/25/05 12:34:38 ,Pulse oximeter,HR,58,Well
+2021/25/05 18:42:21 ,Thermometer,Temperature,36.6,Well
+2021/25/05 18:42:21 ,Pulse oximeter,SpO2,97,Well
+2021/25/05 18:42:21 ,Pulse oximeter,HR,54,Well
+2021/26/05 09:23:26 ,Thermometer,Temperature,36.4,Well
+2021/26/05 09:23:26 ,Pulse oximeter,SpO2,97,Well
+2021/26/05 09:23:26 ,Pulse oximeter,HR,66,Well
+2021/26/05 12:59:07 ,Thermometer,Temperature,37,Well
+2021/26/05 12:59:07 ,Pulse oximeter,SpO2,97,Well
+2021/26/05 12:59:07 ,Pulse oximeter,HR,61,Well
+2021/26/05 18:06:02 ,Thermometer,Temperature,36.9,Well
+2021/26/05 18:06:02 ,Pulse oximeter,SpO2,96,Well
+2021/26/05 18:06:02 ,Pulse oximeter,HR,59,Well
+2021/29/05 10:54:44 ,Thermometer,Temperature,36.7,Tired
+2021/29/05 10:54:44 ,Pulse oximeter,SpO2,97,Tired
+2021/29/05 10:54:44 ,Pulse oximeter,HR,63,Tired
+2021/29/05 11:51:09 ,Thermometer,Temperature,36.6,Tired
+2021/29/05 11:51:09 ,Pulse oximeter,SpO2,98,Tired
+2021/29/05 11:51:09 ,Pulse oximeter,HR,58,Tired
+2021/29/05 18:31:57 ,Thermometer,Temperature,36,Well
+2021/29/05 18:31:57 ,Pulse oximeter,SpO2,97,Well
+2021/29/05 18:31:57 ,Pulse oximeter,HR,56,Well
+2021/30/05 09:38:00 ,Thermometer,Temperature,36.7,Well
+2021/30/05 09:38:00 ,Pulse oximeter,SpO2,97,Well
+2021/30/05 09:38:00 ,Pulse oximeter,HR,61,Well
+2021/30/05 12:59:48 ,Thermometer,Temperature,36.7,Well
+2021/30/05 12:59:48 ,Pulse oximeter,SpO2,96,Well
+2021/30/05 12:59:48 ,Pulse oximeter,HR,58,Well
+2021/30/05 18:14:38 ,Thermometer,Temperature,36.6,Well
+2021/30/05 18:14:38 ,Pulse oximeter,SpO2,96,Well
+2021/30/05 18:14:38 ,Pulse oximeter,HR,80,Well
+2021/31/05 09:23:40 ,Thermometer,Temperature,37.1,Well
+2021/31/05 09:23:40 ,Pulse oximeter,SpO2,95,Well
+2021/31/05 09:23:40 ,Pulse oximeter,HR,53,Well
+2021/31/05 12:52:53 ,Thermometer,Temperature,36.5,Well
+2021/31/05 12:52:53 ,Pulse oximeter,SpO2,97,Well
+2021/31/05 12:52:53 ,Pulse oximeter,HR,69,Well
+2021/31/05 17:39:49 ,Thermometer,Temperature,36.5,Well
+2021/31/05 17:39:49 ,Pulse oximeter,SpO2,95,Well
+2021/31/05 17:39:49 ,Pulse oximeter,HR,83,Well
+2021/01/06 09:50:23 ,Thermometer,Temperature,36.3,Well
+2021/01/06 09:50:23 ,Pulse oximeter,SpO2,97,Well
+2021/01/06 09:50:23 ,Pulse oximeter,HR,55,Well
+2021/01/06 12:26:15 ,Thermometer,Temperature,36.4,Well
+2021/01/06 12:26:15 ,Pulse oximeter,SpO2,97,Well
+2021/01/06 12:26:15 ,Pulse oximeter,HR,67,Well
+2021/01/06 18:39:10 ,Thermometer,Temperature,36.2,Well
+2021/01/06 18:39:10 ,Pulse oximeter,SpO2,97,Well
+2021/01/06 18:39:10 ,Pulse oximeter,HR,54,Well
+2021/04/06 10:19:18 ,Thermometer,Temperature,36.9,Well
+2021/04/06 10:19:18 ,Pulse oximeter,SpO2,96,Well
+2021/04/06 10:19:18 ,Pulse oximeter,HR,76,Well
+2021/04/06 12:39:11 ,Thermometer,Temperature,36.8,Well
+2021/04/06 12:39:11 ,Pulse oximeter,SpO2,95,Well
+2021/04/06 12:39:11 ,Pulse oximeter,HR,68,Well
+2021/04/06 19:24:36 ,Thermometer,Temperature,36.3,Well
+2021/04/06 19:24:36 ,Pulse oximeter,SpO2,97,Well
+2021/04/06 19:24:36 ,Pulse oximeter,HR,51,Well
+2021/05/06 09:09:21 ,Thermometer,Temperature,36.7,Well
+2021/05/06 09:09:21 ,Pulse oximeter,SpO2,96,Well
+2021/05/06 09:09:21 ,Pulse oximeter,HR,59,Well
+2021/05/06 12:33:11 ,Thermometer,Temperature,36.5,Well
+2021/05/06 12:33:11 ,Pulse oximeter,SpO2,98,Well
+2021/05/06 12:33:11 ,Pulse oximeter,HR,59,Well
+2021/05/06 17:38:14 ,Thermometer,Temperature,36.5,Well
+2021/05/06 17:38:14 ,Pulse oximeter,SpO2,97,Well
+2021/05/06 17:38:14 ,Pulse oximeter,HR,77,Well
+2021/06/06 09:24:58 ,Thermometer,Temperature,36.9,Well
+2021/06/06 09:24:58 ,Pulse oximeter,SpO2,97,Well
+2021/06/06 09:24:58 ,Pulse oximeter,HR,65,Well
+2021/06/06 12:16:22 ,Thermometer,Temperature,36.9,Well
+2021/06/06 12:16:22 ,Pulse oximeter,SpO2,97,Well
+2021/06/06 12:16:22 ,Pulse oximeter,HR,56,Well
+2021/08/06 10:22:12 ,Thermometer,Temperature,36.9,Well
+2021/08/06 10:22:12 ,Pulse oximeter,SpO2,97,Well
+2021/08/06 10:22:12 ,Pulse oximeter,HR,56,Well
+2021/08/06 12:32:02 ,Thermometer,Temperature,36.5,Well
+2021/08/06 12:32:02 ,Pulse oximeter,SpO2,98,Well
+2021/08/06 12:32:02 ,Pulse oximeter,HR,57,Well
+2021/08/06 18:11:57 ,Thermometer,Temperature,36.1,Well
+2021/08/06 18:11:57 ,Pulse oximeter,SpO2,98,Well
+2021/08/06 18:11:57 ,Pulse oximeter,HR,52,Well
+2021/09/06 10:00:17 ,Thermometer,Temperature,36.8,Well
+2021/09/06 10:00:17 ,Pulse oximeter,SpO2,97,Well
+2021/09/06 10:00:17 ,Pulse oximeter,HR,50,Well
+2021/09/06 09:50:23 ,Thermometer,Temperature,36.9,Well
+2021/09/06 09:50:23 ,Pulse oximeter,SpO2,96,Well
+2021/09/06 09:50:23 ,Pulse oximeter,HR,76,Well
+2021/09/06 18:32:17 ,Thermometer,Temperature,36.1,Well
+2021/09/06 18:32:17 ,Pulse oximeter,SpO2,97,Well
+2021/09/06 18:32:17 ,Pulse oximeter,HR,55,Well
+2021/10/06 10:29:42 ,Thermometer,Temperature,35.8,Well
+2021/10/06 10:29:42 ,Pulse oximeter,SpO2,97,Well
+2021/10/06 10:29:42 ,Pulse oximeter,HR,56,Well
+2021/10/06 12:05:05 ,Thermometer,Temperature,36.8,Well
+2021/10/06 12:05:05 ,Pulse oximeter,SpO2,97,Well
+2021/10/06 12:05:05 ,Pulse oximeter,HR,72,Well
+2021/10/06 17:49:09 ,Thermometer,Temperature,36.7,Well
+2021/10/06 17:49:09 ,Pulse oximeter,SpO2,97,Well
+2021/10/06 17:49:09 ,Pulse oximeter,HR,58,Well
+2021/11/06 09:21:07 ,Thermometer,Temperature,36,Well
+2021/11/06 09:21:07 ,Pulse oximeter,SpO2,97,Well
+2021/11/06 09:21:07 ,Pulse oximeter,HR,60,Well
+2021/11/06 12:25:57 ,Thermometer,Temperature,36.9,Well
+2021/11/06 12:25:57 ,Pulse oximeter,SpO2,97,Well
+2021/11/06 12:25:57 ,Pulse oximeter,HR,77,Well
+2021/11/06 18:12:14 ,Thermometer,Temperature,36.8,Well
+2021/11/06 18:12:14 ,Pulse oximeter,SpO2,98,Well
+2021/11/06 18:12:14 ,Pulse oximeter,HR,53,Well
+2021/12/06 09:18:02 ,Thermometer,Temperature,37.4,Well
+2021/12/06 09:18:02 ,Pulse oximeter,SpO2,97,Well
+2021/12/06 09:18:02 ,Pulse oximeter,HR,76,Well
+2021/12/06 12:10:43 ,Thermometer,Temperature,36.4,Well
+2021/12/06 12:10:43 ,Pulse oximeter,SpO2,97,Well
+2021/12/06 12:10:43 ,Pulse oximeter,HR,64,Well
+2021/14/06 09:52:54 ,Thermometer,Temperature,36.5,Well
+2021/14/06 09:52:54 ,Pulse oximeter,SpO2,98,Well
+2021/14/06 09:52:54 ,Pulse oximeter,HR,55,Well
+2021/14/06 12:39:34 ,Thermometer,Temperature,36.7,Well
+2021/14/06 12:39:34 ,Pulse oximeter,SpO2,98,Well
+2021/14/06 12:39:34 ,Pulse oximeter,HR,65,Well
+2021/14/06 17:39:03 ,Thermometer,Temperature,36.9,Well
+2021/14/06 17:39:03 ,Pulse oximeter,SpO2,96,Well
+2021/14/06 17:39:03 ,Pulse oximeter,HR,84,Well
+2021/15/06 10:14:55 ,Thermometer,Temperature,36.8,Well
+2021/15/06 10:14:55 ,Pulse oximeter,SpO2,96,Well
+2021/15/06 10:14:55 ,Pulse oximeter,HR,74,Well
+2021/15/06 12:39:40 ,Thermometer,Temperature,37,Well
+2021/15/06 12:39:40 ,Pulse oximeter,SpO2,96,Well
+2021/15/06 12:39:40 ,Pulse oximeter,HR,59,Well
+2021/15/06 19:30:30 ,Thermometer,Temperature,36.8,Well
+2021/15/06 19:30:30 ,Pulse oximeter,SpO2,97,Well
+2021/15/06 19:30:30 ,Pulse oximeter,HR,54,Well
+2021/16/06 09:35:36 ,Thermometer,Temperature,36.9,Well
+2021/16/06 09:35:36 ,Pulse oximeter,SpO2,98,Well
+2021/16/06 09:35:36 ,Pulse oximeter,HR,54,Well
+2021/16/06 12:00:23 ,Thermometer,Temperature,36.6,Well
+2021/16/06 12:00:23 ,Pulse oximeter,SpO2,98,Well
+2021/16/06 12:00:23 ,Pulse oximeter,HR,76,Well
+2021/16/06 18:02:48 ,Thermometer,Temperature,36.7,Well
+2021/16/06 18:02:48 ,Pulse oximeter,SpO2,96,Well
+2021/16/06 18:02:48 ,Pulse oximeter,HR,55,Well
+2021/17/06 09:27:04 ,Thermometer,Temperature,36.6,Well
+2021/17/06 09:27:04 ,Pulse oximeter,SpO2,98,Well
+2021/17/06 09:27:04 ,Pulse oximeter,HR,52,Well
+2021/17/06 12:37:42 ,Thermometer,Temperature,37,Well
+2021/17/06 12:37:42 ,Pulse oximeter,SpO2,97,Well
+2021/17/06 12:37:42 ,Pulse oximeter,HR,54,Well
+2021/17/06 17:24:57 ,Thermometer,Temperature,36.7,Well
+2021/17/06 17:24:57 ,Pulse oximeter,SpO2,96,Well
+2021/17/06 17:24:57 ,Pulse oximeter,HR,86,Well
+2021/18/06 10:13:47 ,Thermometer,Temperature,36.6,Well
+2021/18/06 10:13:47 ,Pulse oximeter,SpO2,98,Well
+2021/18/06 10:13:47 ,Pulse oximeter,HR,50,Well
+2021/18/06 12:44:35 ,Thermometer,Temperature,36.9,Well
+2021/18/06 12:44:35 ,Pulse oximeter,SpO2,97,Well
+2021/18/06 12:44:35 ,Pulse oximeter,HR,61,Well
+2021/18/06 18:15:18 ,Thermometer,Temperature,36.5,Well
+2021/18/06 18:15:18 ,Pulse oximeter,SpO2,96,Well
+2021/18/06 18:15:18 ,Pulse oximeter,HR,58,Well
+2021/22/06 09:15:46 ,Thermometer,Temperature,36.5,Well
+2021/22/06 09:15:46 ,Pulse oximeter,SpO2,96,Well
+2021/22/06 09:15:46 ,Pulse oximeter,HR,83,Well
+2021/23/06 10:22:53 ,Thermometer,Temperature,36.8,Well
+2021/23/06 10:22:53 ,Pulse oximeter,SpO2,96,Well
+2021/23/06 10:22:53 ,Pulse oximeter,HR,86,Well
+2021/23/06 14:47:24 ,Thermometer,Temperature,36.8,Well
+2021/23/06 14:47:24 ,Pulse oximeter,SpO2,97,Well
+2021/23/06 14:47:24 ,Pulse oximeter,HR,57,Well
+2021/28/06 13:05:35 ,Thermometer,Temperature,36.5,Well
+2021/28/06 13:05:35 ,Pulse oximeter,SpO2,98,Well
+2021/28/06 13:05:35 ,Pulse oximeter,HR,63,Well
+2021/28/06 18:26:30 ,Thermometer,Temperature,37.5,Well
+2021/28/06 18:26:30 ,Pulse oximeter,SpO2,96,Well
+2021/28/06 18:26:30 ,Pulse oximeter,HR,58,Well
+2021/29/06 10:00:14 ,Thermometer,Temperature,36.5,Well
+2021/29/06 10:00:14 ,Pulse oximeter,SpO2,98,Well
+2021/29/06 10:00:14 ,Pulse oximeter,HR,53,Well
+2021/29/06 19:00:00 ,Thermometer,Temperature,36.6,Well
+2021/29/06 19:00:00 ,Pulse oximeter,SpO2,96,Well
+2021/29/06 19:00:00 ,Pulse oximeter,HR,52,Well
+2021/30/06 10:28:51 ,Thermometer,Temperature,36.3,Well
+2021/30/06 10:28:51 ,Pulse oximeter,SpO2,98,Well
+2021/30/06 10:28:51 ,Pulse oximeter,HR,48,Well
+2021/30/06 12:00:00 ,Thermometer,Temperature,36.5,Well
+2021/30/06 12:00:00 ,Pulse oximeter,SpO2,99,Well
+2021/30/06 12:00:00 ,Pulse oximeter,HR,55,Well
+2021/30/06 17:42:42 ,Thermometer,Temperature,36.8,Well
+2021/30/06 17:42:42 ,Pulse oximeter,SpO2,97,Well
+2021/30/06 17:42:42 ,Pulse oximeter,HR,55,Well
+2021/05/09 10:28:30 ,Thermometer,Temperature,36.8,Tired
+2021/05/09 10:28:30 ,Pulse oximeter,SpO2,97,Tired
+2021/05/09 10:28:30 ,Pulse oximeter,HR,77,Tired
+2021/06/09 10:02:41 ,Thermometer,Temperature,36.9,Well
+2021/06/09 10:02:41 ,Pulse oximeter,SpO2,97,Well
+2021/06/09 10:02:41 ,Pulse oximeter,HR,74,Well
+2021/08/09 09:52:54 ,Thermometer,Temperature,36.5,Well
+2021/08/09 09:52:54 ,Pulse oximeter,SpO2,96,Well
+2021/08/09 09:52:54 ,Pulse oximeter,HR,75,Well
+2021/08/09 13:04:14 ,Thermometer,Temperature,36.7,Well
+2021/08/09 13:04:14 ,Pulse oximeter,SpO2,97,Well
+2021/08/09 13:04:14 ,Pulse oximeter,HR,61,Well
+2021/08/14 08:50:30 ,Thermometer,Temperature,36.7,Well
+2021/08/14 08:50:30 ,Pulse oximeter,SpO2,97,Well
+2021/08/14 08:50:30 ,Pulse oximeter,HR,69,Well
+2021/08/14 12:25:59 ,Thermometer,Temperature,36.7,Well
+2021/08/14 12:25:59 ,Pulse oximeter,SpO2,98,Well
+2021/08/14 12:25:59 ,Pulse oximeter,HR,60,Well
+2021/09/22 10:56:00 ,Thermometer,Temperature,36.1,Well
+2021/09/22 10:56:00 ,Pulse oximeter,SpO2,98,Well
+2021/09/22 10:56:00 ,Pulse oximeter,HR,61,Well
+2021/09/23 10:28:05 ,Thermometer,Temperature,36.6,Well
+2021/09/23 10:28:05 ,Pulse oximeter,SpO2,97,Well
+2021/09/23 10:28:05 ,Pulse oximeter,HR,57,Well
+2021/09/29 09:10:16 ,Thermometer,Temperature,33.5,Well
+2021/09/29 09:10:16 ,Pulse oximeter,SpO2,97,Well
+2021/09/29 09:10:16 ,Pulse oximeter,HR,56,Well
+2021/09/29 13:07:57 ,Thermometer,Temperature,34.4,Well
+2021/09/29 13:07:57 ,Pulse oximeter,SpO2,97,Well
+2021/09/29 13:07:57 ,Pulse oximeter,HR,52,Well
+2021/02/10 09:24:51 ,Thermometer,Temperature,34.2,Off
+2021/02/10 09:24:51 ,Pulse oximeter,SpO2,96,Off
+2021/02/10 09:24:51 ,Pulse oximeter,HR,70,Off
+2021/04/10 09:10:14 ,Thermometer,Temperature,37.1,Well
+2021/04/10 09:10:14 ,Pulse oximeter,SpO2,96,Well
+2021/04/10 09:10:14 ,Pulse oximeter,HR,56,Well
+2021/04/10 13:03:34 ,Thermometer,Temperature,36.9,Well
+2021/04/10 13:03:34 ,Pulse oximeter,SpO2,96,Well
+2021/04/10 13:03:34 ,Pulse oximeter,HR,62,Well
+2021/05/10 09:03:30 ,Thermometer,Temperature,36.9,Well
+2021/05/10 09:03:30 ,Pulse oximeter,SpO2,97,Well
+2021/05/10 09:03:30 ,Pulse oximeter,HR,56,Well
+2021/05/10 12:19:44 ,Thermometer,Temperature,37,Well
+2021/05/10 12:19:44 ,Pulse oximeter,SpO2,96,Well
+2021/05/10 12:19:44 ,Pulse oximeter,HR,65,Well
+2021/12/10  09:10:28 ,Thermometer,Temperature,36.8,Well
+2021/12/10  09:10:28 ,Pulse oximeter,SpO2,97,Well
+2021/12/10  09:10:28 ,Pulse oximeter,HR,67,Well
+2021/14/10 09:51:00 ,Thermometer,Temperature,36.6,Well
+2021/14/10 09:51:00 ,Pulse oximeter,SpO2,96,Well
+2021/14/10 09:51:00 ,Pulse oximeter,HR,62,Well
+2021/17/10 09:30:34 ,Thermometer,Temperature,36.9,Well
+2021/17/10 09:30:34 ,Pulse oximeter,SpO2,97,Well
+2021/17/10 09:30:34 ,Pulse oximeter,HR,63,Well
+2021/18/10 10:16:16 ,Thermometer,Temperature,36.6,Well
+2021/18/10 10:16:16 ,Pulse oximeter,SpO2,98,Well
+2021/18/10 10:16:16 ,Pulse oximeter,HR,56,Well
+2021/18/10 13:48:45 ,Thermometer,Temperature,36.5,Well
+2021/18/10 13:48:45 ,Pulse oximeter,SpO2,99,Well
+2021/18/10 13:48:45 ,Pulse oximeter,HR,45,Well
+2021/25/10 10:44:37 ,Thermometer,Temperature,36.93,Well
+2021/25/10 10:44:37 ,Pulse oximeter,SpO2,97,Well
+2021/25/10 10:44:37 ,Pulse oximeter,HR,60,Well
+2021/26/10 13:08:43 ,Thermometer,Temperature,36.6,Well
+2021/26/10 13:08:43 ,Pulse oximeter,SpO2,97,Well
+2021/26/10 13:08:43 ,Pulse oximeter,HR,55,Well
+2021/27/10 09:57:54 ,Thermometer,Temperature,36.73,Well
+2021/27/10 09:57:54 ,Pulse oximeter,SpO2,96,Well
+2021/27/10 09:57:54 ,Pulse oximeter,HR,66,Well
+2021/28/10 09:17:49 ,Thermometer,Temperature,37.1,Well
+2021/28/10 09:17:49 ,Pulse oximeter,SpO2,97,Well
+2021/28/10 09:17:49 ,Pulse oximeter,HR,57,Well
+2021/11/10 09:30:00 ,Thermometer,Temperature,37,Well
+2021/11/10 09:30:00 ,Pulse oximeter,SpO2,98,Well
+2021/11/10 09:30:00 ,Pulse oximeter,HR,71,Well
+2021/11/15 12:29:00 ,Thermometer,Temperature,37.1,Well
+2021/11/15 12:29:00 ,Pulse oximeter,SpO2,96,Well
+2021/11/15 12:29:00 ,Pulse oximeter,HR,84,Well
+2021/11/19 09:08:38 ,Thermometer,Temperature,36.7,Well
+2021/11/19 09:08:38 ,Pulse oximeter,SpO2,97,Well
+2021/11/19 09:08:38 ,Pulse oximeter,HR,64,Well
+2021/11/22 09:56:39 ,Thermometer,Temperature,36.56,Well
+2021/11/22 09:56:39 ,Pulse oximeter,SpO2,98,Well
+2021/11/22 09:56:39 ,Pulse oximeter,HR,65,Well
+2021/11/29 12:02:01 ,Thermometer,Temperature,36.7,Well
+2021/11/29 12:02:01 ,Pulse oximeter,SpO2,97,Well
+2021/11/29 12:02:01 ,Pulse oximeter,HR,54,Well
+2021/12/22 09:25:09 ,Thermometer,Temperature,36.4,Well
+2021/12/22 09:25:09 ,Pulse oximeter,SpO2,96,Well
+2021/12/22 09:25:09 ,Pulse oximeter,HR,59,Well
+2021/12/23 09:32:46 ,Thermometer,Temperature,36.6,Well
+2021/12/23 09:32:46 ,Pulse oximeter,SpO2,97,Well
+2021/12/23 09:32:46 ,Pulse oximeter,HR,64,Well
+2021/12/26 09:23:40 ,Thermometer,Temperature,36.93,Well
+2021/12/26 09:23:40 ,Pulse oximeter,SpO2,96,Well
+2021/12/26 09:23:40 ,Pulse oximeter,HR,69,Well
+2021/12/28 09:42:38 ,Thermometer,Temperature,36.6,Well
+2021/12/28 09:42:38 ,Pulse oximeter,SpO2,96,Well
+2021/12/28 09:42:38 ,Pulse oximeter,HR,61,Well
+2021/12/28 12:43:35 ,Thermometer,Temperature,36.53,Well
+2021/12/28 12:43:35 ,Pulse oximeter,SpO2,96,Well
+2021/12/28 12:43:35 ,Pulse oximeter,HR,56,Well
+2021/12/30 12:33:08 ,Thermometer,Temperature,36.27,Well
+2021/12/30 12:33:08 ,Pulse oximeter,SpO2,97,Well
+2021/12/30 12:33:08 ,Pulse oximeter,HR,55,Well
+2021/12/31 08:46:54 ,Thermometer,Temperature,36.8,Well
+2021/12/31 08:46:54 ,Pulse oximeter,SpO2,96,Well
+2021/12/31 08:46:54 ,Pulse oximeter,HR,79,Well
+2022/01/04 10:36:53 ,Thermometer,Temperature,36.93,Well
+2022/01/04 10:36:53 ,Pulse oximeter,SpO2,97,Well
+2022/01/04 10:36:53 ,Pulse oximeter,HR,67,Well
+2022/01/12 12:30:00 ,Thermometer,Temperature,36.63,Well
+2022/01/12 12:30:00 ,Pulse oximeter,SpO2,97,Well
+2022/01/12 12:30:00 ,Pulse oximeter,HR,77,Well
+2022/01/13 09:37:45 ,Thermometer,Temperature,37.07,Well
+2022/01/13 09:37:45 ,Pulse oximeter,SpO2,97,Well
+2022/01/13 09:37:45 ,Pulse oximeter,HR,76,Well
+2022/01/16 09:46:05 ,Thermometer,Temperature,36.83,Well
+2022/01/16 09:46:05 ,Pulse oximeter,SpO2,97,Well
+2022/01/16 09:46:05 ,Pulse oximeter,HR,73,Well
+2022/01/18 12:21:23 ,Thermometer,Temperature,36.53,Well
+2022/01/18 12:21:23 ,Pulse oximeter,SpO2,98,Well
+2022/01/18 12:21:23 ,Pulse oximeter,HR,52,Well
+2022/01/19 09:09:43 ,Thermometer,Temperature,36.63,Well
+2022/01/19 09:09:43 ,Pulse oximeter,SpO2,98,Well
+2022/01/19 09:09:43 ,Pulse oximeter,HR,61,Well
+2022/01/25 13:13:10 ,Thermometer,Temperature,36.37,Well
+2022/01/25 13:13:10 ,Pulse oximeter,SpO2,98,Well
+2022/01/25 13:13:10 ,Pulse oximeter,HR,56,Well
+2022/02/03 12:21:26 ,Thermometer,Temperature,36.76,Well
+2022/02/03 12:21:26 ,Pulse oximeter,SpO2,96,Well
+2022/02/03 12:21:26 ,Pulse oximeter,HR,61,Well
+2022/02/21 12:24:14 ,Thermometer,Temperature,36.9,Well
+2022/02/21 12:24:14 ,Pulse oximeter,SpO2,97,Well
+2022/02/21 12:24:14 ,Pulse oximeter,HR,72,Well
+2022/02/22 09:53:14 ,Thermometer,Temperature,36.8,Well
+2022/02/22 09:53:14 ,Pulse oximeter,SpO2,97,Well
+2022/02/22 09:53:14 ,Pulse oximeter,HR,71,Well
+2022/03/07 12:10:01 ,Thermometer,Temperature,36.87,Well
+2022/03/07 12:10:01 ,Pulse oximeter,SpO2,96,Well
+2022/03/07 12:10:01 ,Pulse oximeter,HR,60,Well
+2022/03/10 12:31:39 ,Thermometer,Temperature,36.9,Well
+2022/03/10 12:31:39 ,Pulse oximeter,SpO2,97,Well
+2022/03/10 12:31:39 ,Pulse oximeter,HR,68,Well
+2022/03/23 09:17:04 ,Thermometer,Temperature,36.4,Well
+2022/03/23 09:17:04 ,Pulse oximeter,SpO2,98,Well
+2022/03/23 09:17:04 ,Pulse oximeter,HR,56,Well
+2022/03/28 12:22:21 ,Thermometer,Temperature,36.9,Well
+2022/03/28 12:22:21 ,Pulse oximeter,SpO2,97,Well
+2022/03/28 12:22:21 ,Pulse oximeter,HR,58,Well
+2022/03/30 12:40:38 ,Thermometer,Temperature,36.43,Well
+2022/03/30 12:40:38 ,Pulse oximeter,SpO2,97,Well
+2022/03/30 12:40:38 ,Pulse oximeter,HR,56,Well
+2022/04/03 13:14:39 ,Thermometer,Temperature,36.9,Well
+2022/04/03 13:14:39 ,Pulse oximeter,SpO2,96,Well
+2022/04/03 13:14:39 ,Pulse oximeter,HR,80,Well
+2022/04/16 12:22:40 ,Thermometer,Temperature,36.57,Well
+2022/04/16 12:22:40 ,Pulse oximeter,SpO2,97,Well
+2022/04/16 12:22:40 ,Pulse oximeter,HR,56,Well
+2022/04/25 12:40:24 ,Thermometer,Temperature,36.4,Well
+2022/04/25 12:40:24 ,Pulse oximeter,SpO2,98,Well
+2022/04/25 12:40:24 ,Pulse oximeter,HR,54,Well
+2022/05/16 12:22:57 ,Thermometer,Temperature,36.6,Well
+2022/05/16 12:22:57 ,Pulse oximeter,SpO2,99,Well
+2022/05/16 12:22:57 ,Pulse oximeter,HR,54,Well
+2022/07/12 13:31:50 ,Thermometer,Temperature,35.93,Well
+2022/07/12 13:31:50 ,Pulse oximeter,SpO2,98,Well
+2022/07/12 13:31:50 ,Pulse oximeter,HR,52,Well
+2022/07/18 14:01:44 ,Thermometer,Temperature,36.4,Well
+2022/07/18 14:01:44 ,Pulse oximeter,SpO2,97,Well
+2022/07/18 14:01:44 ,Pulse oximeter,HR,56,Well
+2022/07/19 13:25:04 ,Thermometer,Temperature,36.36,Well
+2022/07/19 13:25:04 ,Pulse oximeter,SpO2,98,Well
+2022/07/19 13:25:04 ,Pulse oximeter,HR,55,Well
+2022/08/02 14:59:01 ,Thermometer,Temperature,36.43,Well
+2022/08/02 14:59:01 ,Pulse oximeter,SpO2,98,Well
+2022/08/02 14:59:01 ,Pulse oximeter,HR,52,Well
+2022/08/03 13:30:12 ,Thermometer,Temperature,36.83,Well
+2022/08/03 13:30:12 ,Pulse oximeter,SpO2,99,Well
+2022/08/03 13:30:12 ,Pulse oximeter,HR,54,Well
+2022/08/10 12:45:54 ,Thermometer,Temperature,36.3,Well
+2022/08/10 12:45:54 ,Pulse oximeter,SpO2,98,Well
+2022/08/10 12:45:54 ,Pulse oximeter,HR,48,Well
+2022/08/16 12:59:41 ,Thermometer,Temperature,36.5,Well
+2022/08/16 12:59:41 ,Pulse oximeter,SpO2,97,Well
+2022/08/16 12:59:41 ,Pulse oximeter,HR,64,Well

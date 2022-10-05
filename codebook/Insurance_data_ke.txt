@@ -1,0 +1,196 @@
+  1. "id" - this is the identifier used as a primary key.
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1001
+	Smallest value:        0
+	Largest value:         1,000
+	Sum:                   500,500
+	Mean:                  500
+	Median:                500
+	StDev:                 289.108
+	Most common values:    0 (1x)
+	                       1 (1x)
+	                       2 (1x)
+	                       3 (1x)
+	                       4 (1x)
+
+  2. "County" - what county they belong to in Kenya.
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         44
+	Longest value:         16 characters
+	Most common values:    Turkana (84x)
+	                       Migori (79x)
+	                       Kisii (75x)
+	                       Embu (52x)
+	                       West Pokot (49x)
+
+  3. "Gender" - are they Male or Female.
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         6 characters
+	Most common values:    Female (510x)
+	                       Male (491x)
+
+  4. "Marital_status" -  is the person Single, Divorced, Married, Widowed, Separated & Registered Partnership.
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         6
+	Longest value:         22 characters
+	Most common values:    Separated (376x)
+	                       Single (273x)
+	                       Married (205x)
+	                       Widowed (139x)
+	                       Registered Partnership (7x)
+
+  5. "No_of_dependents"- how many people will be benefitting from this cover.
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         6
+	Smallest value:        0
+	Largest value:         5
+	Sum:                   2,503
+	Mean:                  2.5
+	Median:                3
+	StDev:                 1.723
+	Most common values:    5 (174x)
+	                       0 (174x)
+	                       3 (171x)
+	                       2 (167x)
+	                       1 (158x)
+
+  6. "Age" - how old they are.
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         45
+	Smallest value:        30
+	Largest value:         74
+	Sum:                   51,940
+	Mean:                  51.888
+	Median:                52
+	StDev:                 12.663
+	Most common values:    58 (34x)
+	                       50 (32x)
+	                       42 (31x)
+	                       39 (29x)
+	                       43 (28x)
+
+  7. "Tier"- what category of insurance have they subscribed to. They are a number of perks given to each. However, most are given to Gold members.
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         6 characters
+	Most common values:    Bronze (504x)
+	                       Silver (297x)
+	                       Gold (200x)
+
+  8. "Policy_limit"- Maximum amount the individual can spend on their policy.
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        300,000
+	Largest value:         1,000,000
+	Sum:                   505,400,000
+	Mean:                  504,895.105
+	Median:                500,000
+	StDev:                 265,981.229
+	Most common values:    300,000 (488x)
+	                       500,000 (308x)
+	                       1,000,000 (205x)
+
+  9. "Illness_category" - what level of illness does a person have. This is in a separate dataset for what condition exactly. Coegnital is a condition the person had since birth, acute illness that has a very rapid onset, but it usually clears up within a month e.g Rash, Fever, A chronic illness lasts for months, years, or even a lifetime e.g Arthritis and Subacute symptoms are less pronounced but more prolonged than in an acute disease, intermediate between acute and chronic disease.
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         4
+	Longest value:         10 characters
+	Most common values:    Chronic (262x)
+	                       Congenital (260x)
+	                       Subacute (243x)
+	                       Acute (236x)
+
+ 10. "Date_of_entry" - when they started the policy based on data entry of the CRON processes.
+
+	Type of data:          DateTime
+	Contains null values:  False
+	Unique values:         1001
+	Smallest value:        2000-01-04 11:30:13
+	Largest value:         2022-09-17 05:16:59
+	Most common values:    2013-11-14 01:12:01 (1x)
+	                       2015-09-11 02:32:07 (1x)
+	                       2000-11-24 04:13:56 (1x)
+	                       2006-04-06 12:50:18 (1x)
+	                       2016-12-04 16:49:07 (1x)
+
+ 11. "Updated_subscription" - Have they updated their plan.
+
+	Type of data:          Boolean
+	Contains null values:  False
+	Unique values:         2
+	Most common values:    False (552x)
+	                       True (449x)
+
+ 12. "Account_withdrawal" - Did they stop using the insurance provider.
+
+	Type of data:          Boolean
+	Contains null values:  False
+	Unique values:         2
+	Most common values:    False (797x)
+	                       True (204x)
+
+ 13. "Retention" - How long the client has been using the insurance provider.
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         21
+	Smallest value:        1
+	Largest value:         21
+	Sum:                   11,082
+	Mean:                  11.071
+	Median:                11
+	StDev:                 5.971
+	Most common values:    17 (61x)
+	                       2 (56x)
+	                       15 (56x)
+	                       8 (55x)
+	                       6 (54x)
+
+ 14. "ID_number" - their kenyan identification number.
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1001
+	Smallest value:        1,019,158
+	Largest value:         39,969,824
+	Sum:                   20,438,436,501
+	Mean:                  20,418,018.483
+	Median:                20,583,770
+	StDev:                 11,584,245.069
+	Most common values:    38,074,758 (1x)
+	                       19,503,833 (1x)
+	                       5,985,350 (1x)
+	                       23,029,320 (1x)
+	                       22,372,093 (1x)
+
+ 15. "Tax_id" - their KRA identifier.
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1001
+	Longest value:         11 characters
+	Most common values:    N690674664H (1x)
+	                       F384415788F (1x)
+	                       B871536581P (1x)
+	                       P464662008O (1x)
+	                       V172966182A (1x)
+
+Row count: 1001
