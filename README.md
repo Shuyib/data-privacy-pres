@@ -10,7 +10,7 @@ Folders:
 │   ├── feature_engineered_insurance.csv - data which was created for the same problem but has issues. Create a new one.    
 │   ├── Insurance_data_ke.csv - The insurance dataset created by running `python utils/dataloader.py`    
 │   ├── Insurance_data_ke_featureeng.csv - Insurance dataset created as an intermediate step for feature engineering.    
-│   └── Organs.csv - Single patient data who was recovering from surgery from a heart disease. Just contains data about their vitals from a thermometer, blood oximeter.     
+│   └── Organs.csv - Single patient data who was recovering from surgery from a heart disease. Just contains data about their vitals from a thermometer, pulse oximeter.     
 ├── Dockerfile - a blueprint to run the project in a reproducible way see. # How to run in docker image.    
 ├── environment.yml - a conda virtual environment file.  
 ├── Kenya Data Protection Act - Quick Guide 2021.pdf - a demo for privacy engineering strategy at Deloitte.   
