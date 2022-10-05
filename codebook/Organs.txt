@@ -1,0 +1,63 @@
+ A dataset which is a subset of patients recovering from Heart Surgery from a hospital in Kenya. The different instruments collected several observations whose values could indicate if the patient was getting some sort of a fever (temperature), anemia (SpO2) or something else.
+ 
+ 1. "Date" - this is the datetime when the observation from the medical instruments were taken. That is, thermometer and pulse oximeter.
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         233
+	Longest value:         21 characters
+	Most common values:    2021/10/04 09:33:00  (3x)
+	                       2021/10/04 13:18:09  (3x)
+	                       2021/11/04 10:03:22  (3x)
+	                       2021/11/04 12:04:00  (3x)
+	                       2021/11/04 18:19:00  (3x)
+
+  2. "Instrument" - the medical equipment that was used to collect the data.
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         14 characters
+	Most common values:    Pulse oximeter (461x)
+	                       Thermometer (232x)
+
+  3. "Reading" - different types of observations from the instruments. The HR means Heart Rate, SpO2 means the blood oxygen levels in the circulating blood and Temperature is just the quantity that expresses hot or cold.
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         11 characters
+	Most common values:    HR (231x)
+	                       SpO2 (231x)
+	                       Temperature (231x)
+
+  4. "Observation" - These are the observations that are tied to each instrument.
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         90
+	Smallest value:        32.7
+	Largest value:         99
+	Sum:                   45,399.82
+	Mean:                  65.512
+	Median:                61
+	StDev:                 25.344
+	Most common values:    97 (104x)
+	                       96 (80x)
+	                       98 (36x)
+	                       36.9 (30x)
+	                       36.7 (27x)
+
+  5. "Status" - How the patient is feeling at the particular time.
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         5
+	Longest value:         7 characters
+	Most common values:    Well (636x)
+	                       Tired (39x)
+	                       Allergy (9x)
+	                       anxious (6x)
+	                       Off (3x)
+
+Row count: 693
