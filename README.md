@@ -52,3 +52,13 @@ Build docker image
 
 Run the Docker image     
 `sudo sudo docker run -p 9999:9999 data-privacy-env:v1`
+
+# References
+
+* https://www.manning.com/books/data-privacy  
+* https://ethics.fast.ai/  
+* https://www.apple.com/privacy/docs/Differential_Privacy_Overview.pdf  
+* https://www.manning.com/books/privacy-preserving-machine-learning  
+* https://www.manning.com/books/grokking-deep-learning  
+* https://www.manning.com/books/build-a-career-in-data-science  
+* https://www.datacamp.com/
