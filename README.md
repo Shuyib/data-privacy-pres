@@ -31,7 +31,7 @@ Warning: The diffprivlib doesn't seem to be working with the standard dockerfile
 
 # How to make the conda environment locally   
 
-If you have anaconda and miniconda.   
+If you have anaconda and miniconda. In the data-privacy-pres directory, complete the following steps.   
 
 1. Create the virtual environment   
  
