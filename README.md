@@ -48,10 +48,13 @@ source activate data-privacy-env
 # How to run the docker image    
 
 Build docker image    
-`sudo docker build -t data-privacy-env:v1 .`   
+```bash
+sudo docker build -t data-privacy-env:v1 .```   
 
 Run the docker image     
-`sudo docker run -p 9999:9999 data-privacy-env:v1`
+```bash
+sudo docker run -p 9999:9999 data-privacy-env:v1
+```
 
 # References
 
