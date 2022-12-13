@@ -2,7 +2,7 @@
 FROM continuumio/miniconda3
 
 # Meta-data
-LABEL maintainer="MainyeB" \
+LABEL maintainer="Shuyib" \
       description="Docker Data Science workflow: make the same environment as the speaker and create simulated insurance data."
 
 # Set the working directory to /app
