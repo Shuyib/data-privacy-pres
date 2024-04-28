@@ -65,4 +65,4 @@ sudo docker run -p 9999:9999 data-privacy-env:v1
 * https://www.manning.com/books/privacy-preserving-machine-learning  
 * https://www.manning.com/books/grokking-deep-learning  
 * https://www.manning.com/books/build-a-career-in-data-science  
-* https://www.datacamp.com/
+* https://www.datacamp.com/courses/data-privacy-and-anonymization-in-python     
