@@ -5,7 +5,7 @@ venv:
 
 activate:
 	# activate venv run this manually
-	conda activate name_of_path_where
+	conda activate data-privacy-env
 
 deactivate:
 	# deactivate venv run this manually
@@ -14,7 +14,7 @@ deactivate:
 install:
 	# install commands
 	conda update -n base -c defaults conda &&\
-		conda install gym matplotlib numpy 
+		conda install matplotlib numpy 
 
 export:
 	# export virtual environment

@@ -1,4 +1,4 @@
-This is a presentation about Data privacy and anonymization that was held in Africa's Talking Ltd. Mostly on a data person level by that I mean those who work with data and those who are working with data person. You can simulate data to make the insurance data set. See the folder layout to learn how to do it.
+This is a presentation about Data privacy and anonymization. Mostly on a data person level by that I mean those who work with data and those who are working with data person. You can simulate data to make the insurance data set. See the folder layout to learn how to do it.
 
 Folders:   
 .    
@@ -17,7 +17,9 @@ Folders:
 ├── Makefile - workflow orchestrator. Helps automating code formating and running repetitive tasks.  
 ├── presentation - this directory has the presentations that were used live.    
 │   ├── presentation.pdf - HTML to PDF using LaTeX.  
-│   └── presentation.slides.html - reveal.js presentation. Open with your browser.  
+│   ├── presentation.slides.html - reveal.js presentation. Open with your browser.  
+|   ├── presentation2.html - Quarto version of the presentation.    
+|   ├── presentation2.pdf - PDF version of the presentation.   
 ├── presentation.ipynb - jupyter notebook with jupyter notebook extensions and reveal.js extension.   
 ├── README.md - the file you are reading.    
 ├── requirements.txt - what packages were used.  
@@ -27,7 +29,6 @@ Folders:
     ├── dataloader.py - data generator that uses methods from the faker library and numpy.  
     ├── Feature_engineering.ipynb - a feature engineering workflow that I use for making the insurance dataset ready for statistical modeling aka machine learning.    
 
-Warning: The diffprivlib doesn't seem to be working with the standard dockerfile. You may want to edit the dockerfile or make the *environment.yml* file.
 
 # How to make the conda environment locally   
 
@@ -36,7 +37,7 @@ If you have anaconda/miniconda. In the data-privacy-pres directory, complete the
 1. Create the virtual environment   
  
 ```bash
-conda env create -f environment.yml 
+conda env create -f data-privacy-env.yml    
 ```
 
 2. This will create an environment called *data-privacy-env*. You can activate it like this.     

@@ -4,3 +4,9 @@ jupyter_contrib_nbextensions
 pylint
 black
 csvkit
+diffprivlib
+numpy 
+pandas 
+matplotlib 
+scikit-learn 
+phe 
