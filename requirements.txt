@@ -1,4 +1,4 @@
-pandas_profiling
+ydata-profiling
 RISE
 jupyter_contrib_nbextensions
 pylint
