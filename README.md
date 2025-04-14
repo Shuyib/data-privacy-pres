@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shuyib/data-privacy-pres/HEAD)
+
 This is a presentation about Data privacy and anonymization. Mostly on a data person level by that I mean those who work with data and those who are working with data person. You can simulate data to make the insurance data set. See the folder layout to learn how to do it.
 
 Folders:   
